@@ -15,19 +15,18 @@
 \graphicspath{ {./} }
 
 \definecolor{linkcolor}{HTML}{1588e0}
+\definecolor{bg}{rgb}{1,0.96,0.9}
 
 \hypersetup{
   colorlinks=true,
   allcolors=linkcolor,
-  pdftitle={Relatório AMS - Entrega 1 - 2023/2024},
+  pdftitle={Relatório Entrega 1 AMS 2023/2024 LEIC-A},
   pdfpagemode=FullScreen,
 }
 
-\definecolor{bg}{rgb}{1,0.96,0.9}
-
 \pagestyle{fancy}
 \fancyhf{}
-\rhead{Grupo \textbf{37}}
+\rhead{Grupo \textbf{50}}
 \lhead{Relatório Entrega 1 AMS 2023/2024 LEIC-A}
 \cfoot{Gonçalo Bárias (103124), Miguel Costa (103969) e Raquel Braunschweig (102624)}
 
@@ -36,12 +35,10 @@
 \renewcommand{\labelitemii}{$\circ$}
 \renewcommand{\labelitemiii}{$\diamond$}
 
-
 \begin{document}
 \begin{titlepage}
   \begin{center}
     \vspace*{5cm}
-
     \Huge
     \textbf{Projeto AMS - Entrega 1}
 
@@ -51,16 +48,18 @@
 
     \vspace{0.5cm}
     \large
-    Professor Sérgio Luís Proença Duarte Guerreiro
+    Prof. Sérgio Luís Proença Duarte Guerreiro
 
     \vfill
     \large
+    \begin{minipage}{0.8\textwidth}
+      \begin{itemize}
+        \item[] \textbf{Gonçalo Bárias} (103124) - 14h
+        \item[] \textbf{Miguel Costa} (103969) - 14h
+        \item[] \textbf{Raquel Braunschweig} (102624) - 14h
+      \end{itemize}
+    \end{minipage}
   \end{center}
-  \begin{itemize}
-    \item[] \textbf{Gonçalo Bárias} (103124) - 14h
-    \item[] \textbf{Miguel Costa} (103969) - 14h
-    \item[] \textbf{Raquel Braunschweig} (102624) - 14h
-  \end{itemize}
 \end{titlepage}
 
 \begin{tcolorbox}[enhanced jigsaw,colback=bg,boxrule=0pt,arc=4pt]
@@ -69,7 +68,7 @@
   \end{large}
 
   \begin{small}
-    \textbf{Diagrama do Contexto do Negócio} (Figure \ref{fig:archimate})
+    \textbf{Diagrama do Contexto do Negócio} (Figure \ref{fig:a1})
   \end{small}
   \begin{itemize}
     \item AAAA.
@@ -77,7 +76,7 @@
   \end{itemize}
 
   \begin{small}
-    \textbf{Diagrama de Vista Geral do Negócio} (Figure \ref{fig:archimate})
+    \textbf{Diagrama de Vista Geral do Negócio} (Figure \ref{fig:a2})
   \end{small}
   \begin{itemize}
     \item AAAA.
@@ -85,19 +84,54 @@
   \end{itemize}
 
   \begin{small}
-    \textbf{Diagrama do Processo de Gestão dos Fornecedores} (Figure \ref{fig:p-set-bpmn})
+    \textbf{Diagrama do Processo de Gestão dos Fornecedores} (Figure \ref{fig:p1})
   \end{small}
   \begin{itemize}
     \item AAAAA
   \end{itemize}
 
   \begin{small}
-    \textbf{Diagrama do Processo de Gestão de Artigos} (Figure \ref{fig:p-on-bpmn})
+    \textbf{Diagrama do Processo de Gestão de Artigos} (Figure \ref{fig:p2})
   \end{small}
   \begin{itemize}
     \item AAAAA
   \end{itemize}
 \end{tcolorbox}
-  
+
+% \begin{landscape}
+%   \begin{figure}
+%     \centering
+%     \includesvg[inkscapelatex=false,width=1.5\textwidth]{assets/a1.svg}
+%     \caption{Diagrama do Contexto do Negócio}
+%     \label{fig:a1}
+%   \end{figure}
+% \end{landscape}
+%
+% \begin{landscape}
+%   \begin{figure}
+%     \centering
+%     \includesvg[inkscapelatex=false,width=1.5\textwidth]{assets/a2.svg}
+%     \caption{Diagrama de Vista Geral do Negócio}
+%     \label{fig:a2}
+%   \end{figure}
+% \end{landscape}
+%
+% \begin{landscape}
+%   \begin{figure}
+%     \centering
+%     \includesvg[inkscapelatex=false,width=1.5\textwidth]{assets/p1.svg}
+%     \caption{Diagrama do Processo de Gestão dos Fornecedores}
+%     \label{fig:p1}
+%   \end{figure}
+% \end{landscape}
+%
+% \begin{landscape}
+%   \begin{figure}
+%     \centering
+%     \includesvg[inkscapelatex=false,width=1.35\textwidth]{assets/p2.svg}
+%     \caption{Diagrama do Processo de Gestão de Artigos}
+%     \label{fig:p2}
+%   \end{figure}
+% \end{landscape}
 
 \end{document}
