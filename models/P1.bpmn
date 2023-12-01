@@ -168,6 +168,7 @@
     </bpmn:task>
     <bpmn:subProcess id="Activity_0rhdd3x" name="Enviar convite">
       <bpmn:incoming>Flow_1ooorfw</bpmn:incoming>
+      <bpmn:outgoing>Flow_17tzo1f</bpmn:outgoing>
       <bpmn:startEvent id="Event_0fe0gkn">
         <bpmn:outgoing>Flow_1de63jv</bpmn:outgoing>
       </bpmn:startEvent>
@@ -297,6 +298,7 @@
       <bpmn:incoming>Flow_1dumj4z</bpmn:incoming>
       <bpmn:incoming>Flow_1kbol48</bpmn:incoming>
       <bpmn:incoming>Flow_1tgg97k</bpmn:incoming>
+      <bpmn:incoming>Flow_17tzo1f</bpmn:incoming>
       <bpmn:outgoing>Flow_01w3j2t</bpmn:outgoing>
       <bpmn:outgoing>Flow_1b3c4jz</bpmn:outgoing>
     </bpmn:eventBasedGateway>
@@ -313,6 +315,7 @@
       <bpmn:outgoing>Flow_1vdnu1x</bpmn:outgoing>
       <bpmn:outgoing>Flow_0t1ama2</bpmn:outgoing>
     </bpmn:exclusiveGateway>
+    <bpmn:sequenceFlow id="Flow_17tzo1f" sourceRef="Activity_0rhdd3x" targetRef="Gateway_15t1pq5" />
     <bpmn:textAnnotation id="TextAnnotation_1308av2">
       <bpmn:text>Separar em coordenador e funcionário.</bpmn:text>
     </bpmn:textAnnotation>
@@ -330,10 +333,6 @@
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="Lane_0vzgj02_di" bpmnElement="Lane_0vzgj02" isHorizontal="true">
         <dc:Bounds x="190" y="100" width="1800" height="630" />
-        <bpmndi:BPMNLabel />
-      </bpmndi:BPMNShape>
-      <bpmndi:BPMNShape id="TextAnnotation_1308av2_di" bpmnElement="TextAnnotation_1308av2">
-        <dc:Bounds x="680" y="450" width="100" height="55" />
         <bpmndi:BPMNLabel />
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="Gateway_0jywnl7_di" bpmnElement="Gateway_0jywnl7" isMarkerVisible="true">
@@ -535,10 +534,10 @@
           <dc:Bounds x="852.5" y="961" width="55" height="14" />
         </bpmndi:BPMNLabel>
       </bpmndi:BPMNShape>
-      <bpmndi:BPMNEdge id="Association_03h04uo_di" bpmnElement="Association_03h04uo">
-        <di:waypoint x="783" y="438" />
-        <di:waypoint x="760" y="450" />
-      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="TextAnnotation_1308av2_di" bpmnElement="TextAnnotation_1308av2">
+        <dc:Bounds x="680" y="450" width="100" height="55" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="Event_0krmzdb_di" bpmnElement="Event_1cef9yf">
         <dc:Bounds x="1152" y="139" width="36" height="36" />
         <bpmndi:BPMNLabel>
@@ -757,6 +756,15 @@
         <bpmndi:BPMNLabel>
           <dc:Bounds x="928" y="992" width="19" height="14" />
         </bpmndi:BPMNLabel>
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Association_03h04uo_di" bpmnElement="Association_03h04uo">
+        <di:waypoint x="783" y="438" />
+        <di:waypoint x="760" y="450" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_17tzo1f_di" bpmnElement="Flow_17tzo1f">
+        <di:waypoint x="640" y="215" />
+        <di:waypoint x="350" y="215" />
+        <di:waypoint x="350" y="509" />
       </bpmndi:BPMNEdge>
       <bpmndi:BPMNShape id="DataStoreReference_15yq1av_di" bpmnElement="DataStoreReference_15yq1av">
         <dc:Bounds x="990" y="1295" width="50" height="50" />
