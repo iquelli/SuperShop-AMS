@@ -67,6 +67,10 @@
     <element xsi:type="archimate:BusinessRole" name="Avaliador de rotas" id="id-c89e17cf5ad94c4ea05b2faed220b7fd"/>
     <element xsi:type="archimate:BusinessRole" name="Arrumador de Produtos no Armazém" id="id-86daaf272463424e9579a6f66d63800c"/>
     <element xsi:type="archimate:BusinessRole" name="Arrumador de Produtos no Interior" id="id-12d8f69cedfd46caa982e562ec68c4a9"/>
+    <element xsi:type="archimate:BusinessActor" name="Operador de transportes" id="id-19184b13b5e44e9880bb0d6726cc483b"/>
+    <element xsi:type="archimate:BusinessActor" name="Fornecedor" id="id-0d5235f25f1a40578e7ac79ec1371b8b"/>
+    <element xsi:type="archimate:BusinessRole" name="Distribuidor" id="id-237733743a554e339de285a775488de7"/>
+    <element xsi:type="archimate:BusinessRole" name="Produtor" id="id-0e4411806cee4f29843e15542381d7fd"/>
   </folder>
   <folder name="Application" id="id-5ea7e519019a498599fdf5f3100bd787" type="application"/>
   <folder name="Technology &amp; Physical" id="id-06bb1b976b9e4938b3dc3039e6472cd9" type="technology"/>
@@ -147,6 +151,8 @@
     <element xsi:type="archimate:AssignmentRelationship" id="id-c2031397818f47c080845be00a855fc5" source="id-f64c384135ef44809daa4e5b5b1aaf5d" target="id-c89e17cf5ad94c4ea05b2faed220b7fd"/>
     <element xsi:type="archimate:AssignmentRelationship" id="id-5df25636807343088257680323928b96" source="id-5874c4b42444416aac9076fc200584a8" target="id-12d8f69cedfd46caa982e562ec68c4a9"/>
     <element xsi:type="archimate:AssignmentRelationship" id="id-6816b988a1fc49c0b1618adfc76ec061" source="id-af515b68128d440facaab7b9fbc617bc" target="id-86daaf272463424e9579a6f66d63800c"/>
+    <element xsi:type="archimate:AssignmentRelationship" id="id-149652f1374749d08fe18ae522f91a12" source="id-0d5235f25f1a40578e7ac79ec1371b8b" target="id-0e4411806cee4f29843e15542381d7fd"/>
+    <element xsi:type="archimate:AssignmentRelationship" id="id-186030930bec42108b3fc4fbfa21ccf1" source="id-0d5235f25f1a40578e7ac79ec1371b8b" target="id-237733743a554e339de285a775488de7"/>
   </folder>
   <folder name="Views" id="id-a3d98c36dcce43ecaa71950eb4b9c160" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-63578e3d7a874fa6b2c7a7063c5583d6">
@@ -278,6 +284,25 @@
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-0e4c39e1525740f5bc261426db32c365" targetConnections="id-b3858caa846441a4a0ab001dad9e4077" archimateElement="id-12d8f69cedfd46caa982e562ec68c4a9">
         <bounds x="1560" y="96" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-049bb26bd4ce4b2685a3e9ce91e406e4" archimateElement="id-19184b13b5e44e9880bb0d6726cc483b">
+        <bounds x="1207" y="567" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-ddd81a7365de44f2b1d81d017aa81717" archimateElement="id-0d5235f25f1a40578e7ac79ec1371b8b">
+        <bounds x="1380" y="567" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-2c31872ebc3742978133c7cb32ce0783" source="id-ddd81a7365de44f2b1d81d017aa81717" target="id-7670f76319dd43e2a8e6c5569b775b0c" archimateRelationship="id-149652f1374749d08fe18ae522f91a12">
+          <bendpoint startX="168" startY="6" endY="-63"/>
+        </sourceConnection>
+        <sourceConnection xsi:type="archimate:Connection" id="id-567041a2edf84da188713933c5a94c9f" source="id-ddd81a7365de44f2b1d81d017aa81717" target="id-572df18ab8174580a7c3594dc8018894" archimateRelationship="id-186030930bec42108b3fc4fbfa21ccf1">
+          <bendpoint startX="108" startY="-6" endX="-60" endY="48"/>
+          <bendpoint startX="168" startY="-6" endY="48"/>
+        </sourceConnection>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-572df18ab8174580a7c3594dc8018894" targetConnections="id-567041a2edf84da188713933c5a94c9f" archimateElement="id-237733743a554e339de285a775488de7">
+        <bounds x="1548" y="513" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-7670f76319dd43e2a8e6c5569b775b0c" targetConnections="id-2c31872ebc3742978133c7cb32ce0783" archimateElement="id-0e4411806cee4f29843e15542381d7fd">
+        <bounds x="1548" y="636" width="120" height="55"/>
       </child>
     </element>
   </folder>
