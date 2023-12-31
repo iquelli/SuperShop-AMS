@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19.13cm" height="11.93cm" viewBox="0 0 723 451">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.40cm" height="8.23cm" viewBox="0 0 771 311">
 <title></title>
 <desc>Created with Enterprise Architect (Build: 1628) 2</desc>
 
 <g style="fill:#FFFFFF;fill-opacity:1.00;">
-	 <rect x="0" y="0" width="723" height="451" shape-rendering="auto"/>
+	 <rect x="0" y="0" width="771" height="311" shape-rendering="auto"/>
 </g><g style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 6 6 L 6 445 L 717 445 L 717 6 L 6 6" shape-rendering="auto"/>
+  <path d="M 6 6 L 6 305 L 765 305 L 765 6 L 6 6" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter; fill:#FFFFFF;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
   <polygon points="6 26 170 26 183 12 183 6 6 6 6 26" shape-rendering="auto"   style="fill-rule:evenodd;"/>
@@ -17,90 +17,74 @@
 	<text x="11.00" y="19.00" textLength="157" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 11.00 19.00)">uc [package] SysML1 [UseCase PDA]     </text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#9A8484; stroke-opacity:1.00">
- <rect x="175" y="40" width="338" height="378" rx="0.00" shape-rendering="auto"  />
+ <rect x="175" y="40" width="421" height="238" rx="0.00" shape-rendering="auto"  />
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="318.00" y="54.00" textLength="51" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 318.00 54.00)">Sistema PDA</text>
+	<text x="377.00" y="54.00" textLength="17" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 377.00 54.00)">PDA</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FEF2DD;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
-<ellipse cx="92.00" cy="75.00" rx="11.00" ry="11.00" shape-rendering="auto"  />
+<ellipse cx="92.00" cy="136.00" rx="11.00" ry="11.00" shape-rendering="auto"  />
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#9A8484; stroke-opacity:1.00">
-  <path d="M 92 86 L 92 107 M 77 91 L 92 91 M 107 91 L 92 91 M 92 107 L 104 128 M 92 107 L 80 128" shape-rendering="auto"/>
+  <path d="M 92 147 L 92 168 M 77 152 L 92 152 M 107 152 L 92 152 M 92 168 L 104 189 M 92 168 L 80 189" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="77.00" y="138.00" textLength="30" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 77.00 138.00)">Actor A</text>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#E5F2FE;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
-<ellipse cx="277.00" cy="107.00" rx="52.50" ry="35.00" shape-rendering="auto"  />
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="255.00" y="110.00" textLength="45" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 255.00 110.00)">Use Case A</text>
+	<text x="83.00" y="199.00" textLength="19" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 83.00 199.00)">SCM</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FEF2DD;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
-<ellipse cx="92.00" cy="192.00" rx="11.00" ry="11.00" shape-rendering="auto"  />
+<ellipse cx="663.00" cy="66.00" rx="11.00" ry="11.00" shape-rendering="auto"  />
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#9A8484; stroke-opacity:1.00">
-  <path d="M 92 203 L 92 224 M 77 208 L 92 208 M 107 208 L 92 208 M 92 224 L 104 245 M 92 224 L 80 245" shape-rendering="auto"/>
+  <path d="M 663 77 L 663 98 M 648 82 L 663 82 M 678 82 L 663 82 M 663 98 L 675 119 M 663 98 L 651 119" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="77.00" y="255.00" textLength="30" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 77.00 255.00)">Actor B</text>
+	<text x="621.00" y="129.00" textLength="85" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 621.00 129.00)">Coordenador da UnV</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#E5F2FE;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
-<ellipse cx="275.00" cy="341.00" rx="52.50" ry="35.00" shape-rendering="auto"  />
+<ellipse cx="288.00" cy="124.00" rx="52.50" ry="35.00" shape-rendering="auto"  />
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="253.00" y="344.00" textLength="44" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 253.00 344.00)">Use Case C</text>
+	<text x="244.00" y="121.00" textLength="89" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 244.00 121.00)">Colocar código interno</text>
+	<text x="269.00" y="134.00" textLength="39" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 269.00 134.00)">em artigo</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#E5F2FE;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
-<ellipse cx="427.00" cy="107.00" rx="52.50" ry="35.00" shape-rendering="auto"  />
+<ellipse cx="287.00" cy="218.00" rx="52.50" ry="35.00" shape-rendering="auto"  />
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="405.00" y="110.00" textLength="45" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 405.00 110.00)">Use Case D</text>
+	<text x="245.00" y="215.00" textLength="84" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 245.00 215.00)">Ler código interno de</text>
+	<text x="275.00" y="228.00" textLength="24" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 275.00 228.00)">artigo</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FEF2DD;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
-<ellipse cx="92.00" cy="309.00" rx="11.00" ry="11.00" shape-rendering="auto"  />
+<ellipse cx="663.00" cy="195.00" rx="11.00" ry="11.00" shape-rendering="auto"  />
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#9A8484; stroke-opacity:1.00">
-  <path d="M 92 320 L 92 341 M 77 325 L 92 325 M 107 325 L 92 325 M 92 341 L 104 362 M 92 341 L 80 362" shape-rendering="auto"/>
+  <path d="M 663 206 L 663 227 M 648 211 L 663 211 M 678 211 L 663 211 M 663 227 L 675 248 M 663 227 L 651 248" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="78.00" y="372.00" textLength="29" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 78.00 372.00)">Actor C</text>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FEF2DD;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
- <rect x="574" y="64" width="82" height="87" rx="0.00" shape-rendering="auto"  />
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="600.00" y="77.00" textLength="30" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 600.00 77.00)">«actor»</text>
-	<text x="584.00" y="90.00" textLength="61" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 584.00 90.00)">System Actor E</text>
+	<text x="610.00" y="258.00" textLength="108" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 610.00 258.00)">Funcionário operacional da</text>
+	<text x="654.00" y="271.00" textLength="18" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 654.00 271.00)">UnV</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#E5F2FE;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
-<ellipse cx="277.00" cy="224.00" rx="52.50" ry="35.00" shape-rendering="auto"  />
+<ellipse cx="481.00" cy="123.00" rx="52.50" ry="35.00" shape-rendering="auto"  />
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="255.00" y="227.00" textLength="45" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 255.00 227.00)">Use Case B</text>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FEF2DD;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
-<ellipse cx="615.00" cy="192.00" rx="11.00" ry="11.00" shape-rendering="auto"  />
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#9A8484; stroke-opacity:1.00">
-  <path d="M 615 203 L 615 224 M 600 208 L 615 208 M 630 208 L 615 208 M 615 224 L 627 245 M 615 224 L 603 245" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="600.00" y="255.00" textLength="30" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 600.00 255.00)">Actor D</text>
+	<text x="436.00" y="120.00" textLength="90" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 436.00 120.00)">Colocar à venda artigo</text>
+	<text x="454.00" y="133.00" textLength="54" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 454.00 133.00)">em armazém</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#E5F2FE;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
-<ellipse cx="427.00" cy="224.00" rx="52.50" ry="35.00" shape-rendering="auto"  />
+<ellipse cx="481.00" cy="218.00" rx="52.50" ry="35.00" shape-rendering="auto"  />
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="405.00" y="227.00" textLength="44" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 405.00 227.00)">Use Case E</text>
+	<text x="453.00" y="208.00" textLength="57" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 453.00 208.00)">Recolher para</text>
+	<text x="445.00" y="221.00" textLength="72" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 445.00 221.00)">armazém artigo à</text>
+	<text x="469.00" y="234.00" textLength="25" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 469.00 234.00)">venda</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#69738C; stroke-opacity:1.00">
-  <path d="M 596 224 L 480 224" shape-rendering="auto"/>
-  <path d="M 574 107 L 480 107" shape-rendering="auto"/>
-  <path d="M 112 341 L 223 341" shape-rendering="auto"/>
-  <path d="M 112 224 L 225 224" shape-rendering="auto"/>
-  <path d="M 112 122 L 225 213" shape-rendering="auto"/>
-  <path d="M 112 107 L 225 107" shape-rendering="auto"/>
+  <path d="M 236 135 L 112 163" shape-rendering="auto"/>
+  <path d="M 235 204 L 112 173" shape-rendering="auto"/>
+  <path d="M 534 115 L 621 103" shape-rendering="auto"/>
+  <path d="M 534 136 L 609 206" shape-rendering="auto"/>
+  <path d="M 534 204 L 567 176 A 6.00 -6.00 180.00 0 0 577 168 L 621 133" shape-rendering="auto"/>
+  <path d="M 534 219 L 609 220" shape-rendering="auto"/>
 </g>
 </svg>

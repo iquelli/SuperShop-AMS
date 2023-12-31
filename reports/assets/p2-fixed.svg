@@ -218,9 +218,9 @@
   <path d="M 1493 106 L 1501 98" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="1461.00" y="58.00" textLength="69" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1461.00 58.00)">Notificar Rotas ao</text>
-	<text x="1471.00" y="71.00" textLength="48" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1471.00 71.00)">operador de</text>
-	<text x="1473.00" y="84.00" textLength="45" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1473.00 84.00)">transportes</text>
+	<text x="1461.00" y="58.00" textLength="67" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1461.00 58.00)">Notificar rotas ao</text>
+	<text x="1470.00" y="71.00" textLength="48" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1470.00 71.00)">operador de</text>
+	<text x="1472.00" y="84.00" textLength="45" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1472.00 84.00)">transportes</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FCC5C2;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
 <ellipse cx="1493.00" cy="244.00" rx="18.00" ry="18.00" shape-rendering="auto"  />
@@ -274,7 +274,7 @@
   <path d="M 473 1012 L 481 1012 L 481 1006" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FCC5C2;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
-<ellipse cx="253.00" cy="914.00" rx="18.00" ry="18.00" shape-rendering="auto"  />
+<ellipse cx="247.00" cy="914.00" rx="18.00" ry="18.00" shape-rendering="auto"  />
 </g>
 <g style="stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel; fill:#FCC5C2;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
   <path d="M 695 914 C 695 904 703 896 713 896 723 896 731 904 731 914 731 924 723 932 713 932 703 932 695 924 695 914 Z" shape-rendering="auto"/>
@@ -359,10 +359,10 @@
   <path d="M 1317 1012 L 1327 1012 L 1327 1006" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FCC5C2;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
-<ellipse cx="1113.00" cy="914.00" rx="18.00" ry="18.00" shape-rendering="auto"  />
+<ellipse cx="1098.00" cy="914.00" rx="18.00" ry="18.00" shape-rendering="auto"  />
 </g>
 <g style="stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel; fill:#FCC5C2;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
-  <path d="M 1535 914 C 1535 904 1543 896 1553 896 1563 896 1571 904 1571 914 1571 924 1563 932 1553 932 1543 932 1535 924 1535 914 Z" shape-rendering="auto"/>
+  <path d="M 1540 914 C 1540 904 1548 896 1558 896 1568 896 1576 904 1576 914 1576 924 1568 932 1558 932 1548 932 1540 924 1540 914 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#CCE2A0;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
   <path d="M 1148 914 L 1173 889 L 1198 914 L 1173 939 L 1148 914 Z" shape-rendering="auto"/>
@@ -478,7 +478,7 @@
   <path d="M 543 524 L 551 524" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="564.00" y="507.00" textLength="32" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 564.00 507.00)">&gt; 1 hora</text>
+	<text x="558.00" y="508.00" textLength="32" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 558.00 508.00)">&gt; 1 hora</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#CCE2A0;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
   <path d="M 348 564 L 373 539 L 398 564 L 373 589 L 348 564 Z" shape-rendering="auto"/>
@@ -766,7 +766,7 @@
   <path d="M 795 894 L 779 888 L 779 900 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#69738C; stroke-opacity:1.00">
-  <path d="M 271 914 L 288 914" shape-rendering="auto"/>
+  <path d="M 265 914 L 288 914" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#69738C;fill-opacity:1.00; stroke:#69738C; stroke-opacity:1.00">
   <path d="M 288 914 L 272 908 L 272 920 Z" shape-rendering="auto"/>
@@ -814,7 +814,7 @@
   <path d="M 1645 894 L 1629 888 L 1629 900 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#69738C; stroke-opacity:1.00">
-  <path d="M 1131 914 L 1148 914" shape-rendering="auto"/>
+  <path d="M 1116 914 L 1148 914" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#69738C;fill-opacity:1.00; stroke:#69738C; stroke-opacity:1.00">
   <path d="M 1148 914 L 1132 908 L 1132 920 Z" shape-rendering="auto"/>
@@ -844,10 +844,10 @@
   <path d="M 1413 914 L 1397 908 L 1397 920 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#69738C; stroke-opacity:1.00">
-  <path d="M 1513 914 L 1535 914" shape-rendering="auto"/>
+  <path d="M 1513 914 L 1540 914" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#69738C;fill-opacity:1.00; stroke:#69738C; stroke-opacity:1.00">
-  <path d="M 1535 914 L 1519 908 L 1519 920 Z" shape-rendering="auto"/>
+  <path d="M 1540 914 L 1524 908 L 1524 920 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#69738C; stroke-opacity:1.00">
   <path d="M 161 564 L 203 564" shape-rendering="auto"/>
@@ -1000,15 +1000,15 @@
   <path d="M 673 539 L 679 523 L 667 523 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
+	<text x="379.00" y="606.00" textLength="16" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 379.00 606.00)">Não</text>
+	<text x="403.00" y="840.00" textLength="16" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 403.00 840.00)">Não</text>
+	<text x="1202.00" y="899.00" textLength="15" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1202.00 899.00)">Sim</text>
 	<text x="1263.00" y="840.00" textLength="16" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1263.00 840.00)">Não</text>
-	<text x="1096.00" y="150.00" textLength="15" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1096.00 150.00)">Sim</text>
-	<text x="343.00" y="899.00" textLength="15" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 343.00 899.00)">Sim</text>
+	<text x="1062.00" y="211.00" textLength="16" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1062.00 211.00)">Não</text>
 	<text x="1280.00" y="490.00" textLength="15" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1280.00 490.00)">Sim</text>
 	<text x="1248.00" y="539.00" textLength="16" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1248.00 539.00)">Não</text>
-	<text x="379.00" y="606.00" textLength="16" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 379.00 606.00)">Não</text>
 	<text x="403.00" y="547.00" textLength="15" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 403.00 547.00)">Sim</text>
-	<text x="403.00" y="840.00" textLength="16" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 403.00 840.00)">Não</text>
-	<text x="1062.00" y="211.00" textLength="16" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1062.00 211.00)">Não</text>
-	<text x="1202.00" y="899.00" textLength="15" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1202.00 899.00)">Sim</text>
+	<text x="1096.00" y="150.00" textLength="15" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1096.00 150.00)">Sim</text>
+	<text x="343.00" y="899.00" textLength="15" style="font-family:Carlito; font-weight:0; font-style:normal; font-size:10px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 343.00 899.00)">Sim</text>
 </g>
 </svg>
