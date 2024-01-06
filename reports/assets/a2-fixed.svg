@@ -17,18 +17,18 @@
 	<text x="11.00" y="19.00" textLength="87" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 11.00 19.00)">business Default View</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00" stroke-dasharray="3,3">
-  <path d="M 35 295 L 35 275" shape-rendering="auto"/>
-  <path d="M 35 275 L 1229 275" shape-rendering="auto"/>
-  <path d="M 1229 275 L 1229 295" shape-rendering="auto"/>
+  <path d="M 35 294 L 35 274" shape-rendering="auto"/>
+  <path d="M 35 274 L 1229 274" shape-rendering="auto"/>
+  <path d="M 1229 274 L 1229 294" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="37.00" y="289.00" textLength="52" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 37.00 289.00)">SuperShop</text>
+	<text x="37.00" y="288.00" textLength="52" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 37.00 288.00)">SuperShop</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00" stroke-dasharray="3,3">
-  <path d="M 35 295 L 35 852" shape-rendering="auto"/>
-  <path d="M 35 852 L 1740 852" shape-rendering="auto"/>
-  <path d="M 1740 852 L 1740 295" shape-rendering="auto"/>
-  <path d="M 1740 295 L 35 295" shape-rendering="auto"/>
+  <path d="M 35 294 L 35 859" shape-rendering="auto"/>
+  <path d="M 35 859 L 1740 859" shape-rendering="auto"/>
+  <path d="M 1740 859 L 1740 294" shape-rendering="auto"/>
+  <path d="M 1740 294 L 35 294" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
   <path d="M 1463 443 L 1583 443 L 1583 498 L 1463 498 L 1463 443 Z" shape-rendering="auto"/>
