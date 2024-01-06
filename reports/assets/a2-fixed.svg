@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="47.36cm" height="28.71cm" viewBox="0 0 1790 1085">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44.42cm" height="27.23cm" viewBox="0 0 1679 1029">
 <title></title>
 <desc>Created with Enterprise Architect (Build: 1628) 2</desc>
 
 <g style="fill:#FFFFFF;fill-opacity:1.00;">
-	 <rect x="0" y="0" width="1790" height="1085" shape-rendering="auto"/>
+	 <rect x="0" y="0" width="1679" height="1029" shape-rendering="auto"/>
 </g><g style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 6 6 L 6 1079 L 1784 1079 L 1784 6 L 6 6" shape-rendering="auto"/>
+  <path d="M 6 6 L 6 1023 L 1673 1023 L 1673 6 L 6 6" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter; fill:#FFFFFF;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
   <polygon points="6 26 100 26 113 12 113 6 6 6 6 26" shape-rendering="auto"   style="fill-rule:evenodd;"/>
@@ -17,903 +17,835 @@
 	<text x="11.00" y="19.00" textLength="87" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:10px; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 11.00 19.00)">business Default View</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00" stroke-dasharray="3,3">
-  <path d="M 35 294 L 35 274" shape-rendering="auto"/>
-  <path d="M 35 274 L 1229 274" shape-rendering="auto"/>
-  <path d="M 1229 274 L 1229 294" shape-rendering="auto"/>
+  <path d="M 35 238 L 35 218" shape-rendering="auto"/>
+  <path d="M 35 218 L 1151 218" shape-rendering="auto"/>
+  <path d="M 1151 218 L 1151 238" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="37.00" y="288.00" textLength="52" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 37.00 288.00)">SuperShop</text>
+	<text x="37.00" y="232.00" textLength="52" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 37.00 232.00)">SuperShop</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00" stroke-dasharray="3,3">
-  <path d="M 35 294 L 35 859" shape-rendering="auto"/>
-  <path d="M 35 859 L 1740 859" shape-rendering="auto"/>
-  <path d="M 1740 859 L 1740 294" shape-rendering="auto"/>
-  <path d="M 1740 294 L 35 294" shape-rendering="auto"/>
+  <path d="M 35 238 L 35 803" shape-rendering="auto"/>
+  <path d="M 35 803 L 1629 803" shape-rendering="auto"/>
+  <path d="M 1629 803 L 1629 238" shape-rendering="auto"/>
+  <path d="M 1629 238 L 35 238" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1463 443 L 1583 443 L 1583 498 L 1463 498 L 1463 443 Z" shape-rendering="auto"/>
+  <path d="M 1463 278 L 1583 278 L 1583 333 L 1463 333 L 1463 278 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1463 463 L 1583 463" shape-rendering="auto"/>
+  <path d="M 1463 298 L 1583 298" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="1493.00" y="482.00" textLength="59" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1493.00 482.00)">Candidatura</text>
+	<text x="1493.00" y="317.00" textLength="59" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1493.00 317.00)">Candidatura</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
- <rect x="1307" y="554" width="120" height="55" rx="10.00" shape-rendering="auto"  />
+ <rect x="1307" y="498" width="120" height="55" rx="10.00" shape-rendering="auto"  />
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="1313.00" y="587.00" textLength="108" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1313.00 587.00)">Gestão de Fornecedor</text>
+	<text x="1313.00" y="531.00" textLength="108" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1313.00 531.00)">Gestão de Fornecedor</text>
+	<text x="1357.00" y="545.00" textLength="20" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1357.00 545.00)">(P1)</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1408 560 L 1417 560" shape-rendering="auto"/>
-  <path d="M 1417 560 L 1417 556" shape-rendering="auto"/>
-  <path d="M 1417 556 L 1421 564" shape-rendering="auto"/>
-  <path d="M 1421 564 L 1417 572" shape-rendering="auto"/>
-  <path d="M 1417 572 L 1417 568" shape-rendering="auto"/>
-  <path d="M 1417 568 L 1408 568" shape-rendering="auto"/>
-  <path d="M 1408 568 L 1408 560" shape-rendering="auto"/>
+  <path d="M 1408 504 L 1417 504" shape-rendering="auto"/>
+  <path d="M 1417 504 L 1417 500" shape-rendering="auto"/>
+  <path d="M 1417 500 L 1421 508" shape-rendering="auto"/>
+  <path d="M 1421 508 L 1417 516" shape-rendering="auto"/>
+  <path d="M 1417 516 L 1417 512" shape-rendering="auto"/>
+  <path d="M 1417 512 L 1408 512" shape-rendering="auto"/>
+  <path d="M 1408 512 L 1408 504" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1607 528 L 1727 528 L 1727 589 L 1607 589 L 1607 528 Z" shape-rendering="auto"/>
+  <path d="M 1468 471 L 1588 471 L 1588 532 L 1468 532 L 1468 471 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="1613.00" y="561.00" textLength="112" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1613.00 561.00)">Convocar fornecedores</text>
+	<text x="1474.00" y="504.00" textLength="114" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1474.00 504.00)">Convocar Fornecedores</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1722 534 L 1710 534" shape-rendering="auto"/>
-  <path d="M 1710 534 C 1710 534 1708 534 1708 538 1708 538 1708 542 1710 542 1710 542 1710 542 1710 542" shape-rendering="auto"/>
-  <path d="M 1710 542 L 1722 542" shape-rendering="auto"/>
-  <path d="M 1721 538 C 1721 536 1722 534 1723 534 1723 534 1724 536 1724 538 1724 540 1723 542 1723 542 1722 542 1721 540 1721 538 Z" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
- <rect x="1526" y="634" width="120" height="61" rx="10.00" shape-rendering="auto"  />
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="1538.00" y="667.00" textLength="96" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1538.00 667.00)">Envio de convite de</text>
-	<text x="1557.00" y="681.00" textLength="58" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1557.00 681.00)">candidatura</text>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1627 649 L 1639 649" shape-rendering="auto"/>
-  <path d="M 1639 649 C 1643 647 1643 641 1639 639" shape-rendering="auto"/>
-  <path d="M 1639 639 L 1627 639" shape-rendering="auto"/>
-  <path d="M 1627 639 L 1630 644" shape-rendering="auto"/>
-  <path d="M 1630 644 L 1627 649" shape-rendering="auto"/>
+  <path d="M 1583 477 L 1571 477" shape-rendering="auto"/>
+  <path d="M 1571 477 C 1571 477 1569 477 1569 481 1569 481 1569 485 1571 485 1571 485 1571 485 1571 485" shape-rendering="auto"/>
+  <path d="M 1571 485 L 1583 485" shape-rendering="auto"/>
+  <path d="M 1582 481 C 1582 479 1583 477 1584 477 1584 477 1585 479 1585 481 1585 483 1584 485 1584 485 1583 485 1582 483 1582 481 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
- <rect x="1151" y="695" width="120" height="64" rx="10.00" shape-rendering="auto"  />
+ <rect x="1124" y="638" width="120" height="64" rx="10.00" shape-rendering="auto"  />
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="1157.00" y="728.00" textLength="113" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1157.00 728.00)">Gestão de documentos</text>
-	<text x="1201.00" y="742.00" textLength="20" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1201.00 742.00)">PDF</text>
+	<text x="1130.00" y="671.00" textLength="113" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1130.00 671.00)">Gestão de documentos</text>
+	<text x="1174.00" y="685.00" textLength="20" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1174.00 685.00)">PDF</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1256 709 L 1264 709" shape-rendering="auto"/>
-  <path d="M 1264 709 C 1264 709 1264 709 1264 709 1264 709 1268 709 1268 705 1268 705 1268 701 1264 701" shape-rendering="auto"/>
-  <path d="M 1264 701 L 1256 701" shape-rendering="auto"/>
-  <path d="M 1256 701 C 1256 701 1252 701 1252 705 1252 705 1252 709 1256 709 1256 709 1256 709 1256 709" shape-rendering="auto"/>
+  <path d="M 1229 652 L 1237 652" shape-rendering="auto"/>
+  <path d="M 1237 652 C 1237 652 1237 652 1237 652 1237 652 1241 652 1241 648 1241 648 1241 644 1237 644" shape-rendering="auto"/>
+  <path d="M 1237 644 L 1229 644" shape-rendering="auto"/>
+  <path d="M 1229 644 C 1229 644 1225 644 1225 648 1225 648 1225 652 1229 652 1229 652 1229 652 1229 652" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 719 295 L 839 295 L 839 350 L 719 350 L 719 295 Z" shape-rendering="auto"/>
+  <path d="M 720 245 L 840 245 L 840 300 L 720 300 L 720 245 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 719 315 L 839 315" shape-rendering="auto"/>
+  <path d="M 720 265 L 840 265" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="730.00" y="334.00" textLength="98" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 730.00 334.00)">Regras automáticas</text>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
- <rect x="1464" y="360" width="129" height="61" rx="10.00" shape-rendering="auto"  />
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="1477.00" y="393.00" textLength="103" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1477.00 393.00)">Envio de candidatura</text>
-	<text x="1500.00" y="407.00" textLength="57" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1500.00 407.00)">espontânea</text>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1574 375 L 1586 375" shape-rendering="auto"/>
-  <path d="M 1586 375 C 1590 373 1590 367 1586 365" shape-rendering="auto"/>
-  <path d="M 1586 365 L 1574 365" shape-rendering="auto"/>
-  <path d="M 1574 365 L 1577 370" shape-rendering="auto"/>
-  <path d="M 1577 370 L 1574 375" shape-rendering="auto"/>
+	<text x="731.00" y="284.00" textLength="98" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 731.00 284.00)">Regras automáticas</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1007 443 L 1127 443 L 1127 498 L 1007 498 L 1007 443 Z" shape-rendering="auto"/>
+  <path d="M 1007 387 L 1127 387 L 1127 442 L 1007 442 L 1007 387 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="1041.00" y="476.00" textLength="51" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1041.00 476.00)">SCAP-SCM</text>
+	<text x="1041.00" y="420.00" textLength="51" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1041.00 420.00)">SCAP-SCM</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1108 453 L 1114 453" shape-rendering="auto"/>
-  <path d="M 1114 453 C 1114 450 1116 448 1119 448 1122 448 1124 450 1124 453 1124 456 1122 458 1119 458 1116 458 1114 456 1114 453 Z" shape-rendering="auto"/>
+  <path d="M 1108 397 L 1114 397" shape-rendering="auto"/>
+  <path d="M 1114 397 C 1114 394 1116 392 1119 392 1122 392 1124 394 1124 397 1124 400 1122 402 1119 402 1116 402 1114 400 1114 397 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
- <rect x="1079" y="326" width="120" height="61" rx="10.00" shape-rendering="auto"  />
+ <rect x="1079" y="270" width="120" height="61" rx="10.00" shape-rendering="auto"  />
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="1084.00" y="359.00" textLength="110" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1084.00 359.00)">Gestão do catálogo de</text>
-	<text x="1122.00" y="373.00" textLength="34" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1122.00 373.00)">artigos</text>
+	<text x="1084.00" y="303.00" textLength="110" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1084.00 303.00)">Gestão do catálogo de</text>
+	<text x="1122.00" y="317.00" textLength="34" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1122.00 317.00)">artigos</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1184 340 L 1192 340" shape-rendering="auto"/>
-  <path d="M 1192 340 C 1192 340 1192 340 1192 340 1192 340 1196 340 1196 336 1196 336 1196 332 1192 332" shape-rendering="auto"/>
-  <path d="M 1192 332 L 1184 332" shape-rendering="auto"/>
-  <path d="M 1184 332 C 1184 332 1180 332 1180 336 1180 336 1180 340 1184 340 1184 340 1184 340 1184 340" shape-rendering="auto"/>
+  <path d="M 1184 284 L 1192 284" shape-rendering="auto"/>
+  <path d="M 1192 284 C 1192 284 1192 284 1192 284 1192 284 1196 284 1196 280 1196 280 1196 276 1192 276" shape-rendering="auto"/>
+  <path d="M 1192 276 L 1184 276" shape-rendering="auto"/>
+  <path d="M 1184 276 C 1184 276 1180 276 1180 280 1180 280 1180 284 1184 284 1184 284 1184 284 1184 284" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 863 329 L 983 329 L 983 384 L 863 384 L 863 329 Z" shape-rendering="auto"/>
+  <path d="M 863 274 L 983 274 L 983 329 L 863 329 L 863 274 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 863 349 L 983 349" shape-rendering="auto"/>
+  <path d="M 863 294 L 983 294" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="901.00" y="368.00" textLength="43" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 901.00 368.00)">Catálogo</text>
+	<text x="901.00" y="313.00" textLength="43" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 901.00 313.00)">Catálogo</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
- <rect x="1307" y="719" width="138" height="79" rx="10.00" shape-rendering="auto"  />
+ <rect x="1307" y="663" width="138" height="79" rx="10.00" shape-rendering="auto"  />
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="1313.00" y="752.00" textLength="131" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1313.00 752.00)">Submissão de documentos</text>
-	<text x="1342.00" y="766.00" textLength="68" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1342.00 766.00)">de fornecedor</text>
+	<text x="1313.00" y="696.00" textLength="131" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1313.00 696.00)">Submissão de documentos</text>
+	<text x="1342.00" y="710.00" textLength="68" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1342.00 710.00)">de fornecedor</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1430 733 L 1438 733" shape-rendering="auto"/>
-  <path d="M 1438 733 C 1438 733 1438 733 1438 733 1438 733 1442 733 1442 729 1442 729 1442 725 1438 725" shape-rendering="auto"/>
-  <path d="M 1438 725 L 1430 725" shape-rendering="auto"/>
-  <path d="M 1430 725 C 1430 725 1426 725 1426 729 1426 729 1426 733 1430 733 1430 733 1430 733 1430 733" shape-rendering="auto"/>
+  <path d="M 1430 677 L 1438 677" shape-rendering="auto"/>
+  <path d="M 1438 677 C 1438 677 1438 677 1438 677 1438 677 1442 677 1442 673 1442 673 1442 669 1438 669" shape-rendering="auto"/>
+  <path d="M 1438 669 L 1430 669" shape-rendering="auto"/>
+  <path d="M 1430 669 C 1430 669 1426 669 1426 673 1426 673 1426 677 1430 677 1430 677 1430 677 1430 677" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 59 329 L 179 329 L 179 384 L 59 384 L 59 329 Z" shape-rendering="auto"/>
+  <path d="M 59 360 L 179 360 L 179 415 L 59 415 L 59 360 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="69.00" y="362.00" textLength="100" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 69.00 362.00)">Avaliar encomendas</text>
+	<text x="69.00" y="393.00" textLength="100" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 69.00 393.00)">Avaliar encomendas</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 174 335 L 162 335" shape-rendering="auto"/>
-  <path d="M 162 335 C 162 335 160 335 160 339 160 339 160 343 162 343 162 343 162 343 162 343" shape-rendering="auto"/>
-  <path d="M 162 343 L 174 343" shape-rendering="auto"/>
-  <path d="M 173 339 C 173 337 174 335 175 335 175 335 176 337 176 339 176 341 175 343 175 343 174 343 173 341 173 339 Z" shape-rendering="auto"/>
+  <path d="M 174 366 L 162 366" shape-rendering="auto"/>
+  <path d="M 162 366 C 162 366 160 366 160 370 160 370 160 374 162 374 162 374 162 374 162 374" shape-rendering="auto"/>
+  <path d="M 162 374 L 174 374" shape-rendering="auto"/>
+  <path d="M 173 370 C 173 368 174 366 174 366 175 366 176 368 176 370 176 372 175 374 174 374 174 374 173 372 173 370 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
- <rect x="299" y="407" width="120" height="73" rx="10.00" shape-rendering="auto"  />
+ <rect x="299" y="351" width="120" height="73" rx="10.00" shape-rendering="auto"  />
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="306.00" y="440.00" textLength="105" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 306.00 440.00)">Pedido de geração de</text>
-	<text x="327.00" y="454.00" textLength="63" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 327.00 454.00)">propostas de</text>
-	<text x="328.00" y="468.00" textLength="62" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 328.00 468.00)">encomendas</text>
+	<text x="306.00" y="384.00" textLength="105" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 306.00 384.00)">Pedido de geração de</text>
+	<text x="327.00" y="398.00" textLength="63" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 327.00 398.00)">propostas de</text>
+	<text x="328.00" y="412.00" textLength="62" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 328.00 412.00)">encomendas</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 400 422 L 412 422" shape-rendering="auto"/>
-  <path d="M 412 422 C 416 420 416 414 412 412" shape-rendering="auto"/>
-  <path d="M 412 412 L 400 412" shape-rendering="auto"/>
-  <path d="M 400 412 L 403 417" shape-rendering="auto"/>
-  <path d="M 403 417 L 400 422" shape-rendering="auto"/>
+  <path d="M 400 366 L 412 366" shape-rendering="auto"/>
+  <path d="M 412 366 C 416 364 416 358 412 356" shape-rendering="auto"/>
+  <path d="M 412 356 L 400 356" shape-rendering="auto"/>
+  <path d="M 400 356 L 403 361" shape-rendering="auto"/>
+  <path d="M 403 361 L 400 366" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
- <rect x="371" y="518" width="145" height="82" rx="10.00" shape-rendering="auto"  />
+ <rect x="372" y="462" width="145" height="82" rx="10.00" shape-rendering="auto"  />
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="383.00" y="551.00" textLength="121" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 383.00 551.00)">Gestão Diária de Artigos</text>
+	<text x="384.00" y="495.00" textLength="121" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 384.00 495.00)">Gestão Diária de Artigos</text>
+	<text x="434.00" y="509.00" textLength="20" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 434.00 509.00)">(P2)</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 497 524 L 506 524" shape-rendering="auto"/>
-  <path d="M 506 524 L 506 520" shape-rendering="auto"/>
-  <path d="M 506 520 L 510 528" shape-rendering="auto"/>
-  <path d="M 510 528 L 506 536" shape-rendering="auto"/>
-  <path d="M 506 536 L 506 532" shape-rendering="auto"/>
-  <path d="M 506 532 L 497 532" shape-rendering="auto"/>
-  <path d="M 497 532 L 497 524" shape-rendering="auto"/>
+  <path d="M 498 468 L 507 468" shape-rendering="auto"/>
+  <path d="M 507 468 L 507 464" shape-rendering="auto"/>
+  <path d="M 507 464 L 511 472" shape-rendering="auto"/>
+  <path d="M 511 472 L 507 480" shape-rendering="auto"/>
+  <path d="M 507 480 L 507 476" shape-rendering="auto"/>
+  <path d="M 507 476 L 498 476" shape-rendering="auto"/>
+  <path d="M 498 476 L 498 468" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
- <rect x="1220" y="326" width="133" height="71" rx="10.00" shape-rendering="auto"  />
+ <rect x="1220" y="270" width="138" height="71" rx="10.00" shape-rendering="auto"  />
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="1226.00" y="359.00" textLength="128" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1226.00 359.00)">Gestão catálogo de oferta</text>
-	<text x="1241.00" y="373.00" textLength="91" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1241.00 373.00)">de tipos de artigos</text>
+	<text x="1225.00" y="303.00" textLength="128" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1225.00 303.00)">Gestão catálogo de oferta</text>
+	<text x="1243.00" y="317.00" textLength="91" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1243.00 317.00)">de tipos de artigos</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1334 332 L 1343 332" shape-rendering="auto"/>
-  <path d="M 1343 332 L 1343 328" shape-rendering="auto"/>
-  <path d="M 1343 328 L 1347 336" shape-rendering="auto"/>
-  <path d="M 1347 336 L 1343 344" shape-rendering="auto"/>
-  <path d="M 1343 344 L 1343 340" shape-rendering="auto"/>
-  <path d="M 1343 340 L 1334 340" shape-rendering="auto"/>
-  <path d="M 1334 340 L 1334 332" shape-rendering="auto"/>
+  <path d="M 1339 276 L 1348 276" shape-rendering="auto"/>
+  <path d="M 1348 276 L 1348 272" shape-rendering="auto"/>
+  <path d="M 1348 272 L 1352 280" shape-rendering="auto"/>
+  <path d="M 1352 280 L 1348 288" shape-rendering="auto"/>
+  <path d="M 1348 288 L 1348 284" shape-rendering="auto"/>
+  <path d="M 1348 284 L 1339 284" shape-rendering="auto"/>
+  <path d="M 1339 284 L 1339 276" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 719 638 L 839 638 L 839 693 L 719 693 L 719 638 Z" shape-rendering="auto"/>
+  <path d="M 719 582 L 839 582 L 839 637 L 719 637 L 719 582 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="761.00" y="671.00" textLength="35" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 761.00 671.00)">ROUTE</text>
+	<text x="761.00" y="615.00" textLength="35" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 761.00 615.00)">ROUTE</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 822 642 L 822 640" shape-rendering="auto"/>
-  <path d="M 822 640 L 834 640" shape-rendering="auto"/>
-  <path d="M 834 640 L 834 656" shape-rendering="auto"/>
-  <path d="M 834 656 L 822 656" shape-rendering="auto"/>
-  <path d="M 822 656 L 822 651" shape-rendering="auto"/>
-  <path d="M 822 648 L 822 645" shape-rendering="auto"/>
-  <path d="M 820 642 L 826 642 L 826 645 L 820 645 L 820 642 M 820 648 L 826 648 L 826 651 L 820 651 L 820 648" shape-rendering="auto"/>
+  <path d="M 822 586 L 822 584" shape-rendering="auto"/>
+  <path d="M 822 584 L 834 584" shape-rendering="auto"/>
+  <path d="M 834 584 L 834 600" shape-rendering="auto"/>
+  <path d="M 834 600 L 822 600" shape-rendering="auto"/>
+  <path d="M 822 600 L 822 595" shape-rendering="auto"/>
+  <path d="M 822 592 L 822 589" shape-rendering="auto"/>
+  <path d="M 820 586 L 826 586 L 826 589 L 820 589 L 820 586 M 820 592 L 826 592 L 826 595 L 820 595 L 820 592" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
- <rect x="587" y="731" width="120" height="55" rx="10.00" shape-rendering="auto"  />
+ <rect x="719" y="671" width="120" height="55" rx="10.00" shape-rendering="auto"  />
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="600.00" y="764.00" textLength="93" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 600.00 764.00)">Gerar rotas ótimas</text>
+	<text x="732.00" y="704.00" textLength="93" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 732.00 704.00)">Gerar rotas ótimas</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 688 737 L 697 737" shape-rendering="auto"/>
-  <path d="M 697 737 L 697 733" shape-rendering="auto"/>
-  <path d="M 697 733 L 701 741" shape-rendering="auto"/>
-  <path d="M 701 741 L 697 749" shape-rendering="auto"/>
-  <path d="M 697 749 L 697 745" shape-rendering="auto"/>
-  <path d="M 697 745 L 688 745" shape-rendering="auto"/>
-  <path d="M 688 745 L 688 737" shape-rendering="auto"/>
+  <path d="M 820 677 L 829 677" shape-rendering="auto"/>
+  <path d="M 829 677 L 829 673" shape-rendering="auto"/>
+  <path d="M 829 673 L 833 681" shape-rendering="auto"/>
+  <path d="M 833 681 L 829 689" shape-rendering="auto"/>
+  <path d="M 829 689 L 829 685" shape-rendering="auto"/>
+  <path d="M 829 685 L 820 685" shape-rendering="auto"/>
+  <path d="M 820 685 L 820 677" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1007 608 L 1127 608 L 1127 663 L 1007 663 L 1007 608 Z" shape-rendering="auto"/>
+  <path d="M 928 555 L 1048 555 L 1048 610 L 928 610 L 928 555 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="1042.00" y="641.00" textLength="49" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1042.00 641.00)">RUN-SCM</text>
+	<text x="963.00" y="588.00" textLength="49" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 963.00 588.00)">RUN-SCM</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1108 618 L 1114 618" shape-rendering="auto"/>
-  <path d="M 1114 618 C 1114 615 1116 613 1119 613 1122 613 1124 615 1124 618 1124 621 1122 623 1119 623 1116 623 1114 621 1114 618 Z" shape-rendering="auto"/>
+  <path d="M 1029 565 L 1035 565" shape-rendering="auto"/>
+  <path d="M 1035 565 C 1035 562 1037 560 1040 560 1043 560 1045 562 1045 565 1045 568 1043 570 1040 570 1037 570 1035 568 1035 565 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
- <rect x="720" y="421" width="120" height="71" rx="10.00" shape-rendering="auto"  />
+ <rect x="720" y="365" width="120" height="71" rx="10.00" shape-rendering="auto"  />
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="726.00" y="454.00" textLength="114" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 726.00 454.00)">Gestão de informações</text>
-	<text x="746.00" y="468.00" textLength="67" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 746.00 468.00)">da SuperShop</text>
+	<text x="726.00" y="398.00" textLength="114" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 726.00 398.00)">Gestão de informações</text>
+	<text x="746.00" y="412.00" textLength="67" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 746.00 412.00)">da SuperShop</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 825 435 L 833 435" shape-rendering="auto"/>
-  <path d="M 833 435 C 833 435 833 435 833 435 833 435 837 435 837 431 837 431 837 427 833 427" shape-rendering="auto"/>
-  <path d="M 833 427 L 825 427" shape-rendering="auto"/>
-  <path d="M 825 427 C 825 427 821 427 821 431 821 431 821 435 825 435 825 435 825 435 825 435" shape-rendering="auto"/>
+  <path d="M 825 379 L 833 379" shape-rendering="auto"/>
+  <path d="M 833 379 C 833 379 833 379 833 379 833 379 837 379 837 375 837 375 837 371 833 371" shape-rendering="auto"/>
+  <path d="M 833 371 L 825 371" shape-rendering="auto"/>
+  <path d="M 825 371 C 825 371 821 371 821 375 821 375 821 379 825 379 825 379 825 379 825 379" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 863 699 L 983 699 L 983 754 L 863 754 L 863 699 Z" shape-rendering="auto"/>
+  <path d="M 59 274 L 179 274 L 179 329 L 59 329 L 59 274 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="897.00" y="732.00" textLength="52" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 897.00 732.00)">SuperShop</text>
+	<text x="90.00" y="307.00" textLength="57" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 90.00 307.00)">Funcionário</text>
+	<text x="69.00" y="321.00" textLength="100" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 69.00 321.00)">Coordenador da Loja</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 969 704 C 969 702 970 701 972 701 974 701 975 702 975 704 975 706 974 707 972 707 970 707 969 706 969 704 Z" shape-rendering="auto"/>
-  <path d="M 972 707 L 972 712" shape-rendering="auto"/>
-  <path d="M 972 712 L 966 717" shape-rendering="auto"/>
-  <path d="M 972 712 L 978 717" shape-rendering="auto"/>
-  <path d="M 967 709 L 977 709" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 863 608 L 983 608 L 983 663 L 863 663 L 863 608 Z" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="912.00" y="641.00" textLength="22" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 912.00 641.00)">SCM</text>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 964 618 L 970 618" shape-rendering="auto"/>
-  <path d="M 970 618 C 970 615 972 613 975 613 978 613 980 615 980 618 980 621 978 623 975 623 972 623 970 621 970 618 Z" shape-rendering="auto"/>
+  <path d="M 165 279 C 165 277 166 276 168 276 170 276 171 277 171 279 171 281 170 282 168 282 166 282 165 281 165 279 Z" shape-rendering="auto"/>
+  <path d="M 168 282 L 168 287" shape-rendering="auto"/>
+  <path d="M 168 287 L 162 292" shape-rendering="auto"/>
+  <path d="M 168 287 L 174 292" shape-rendering="auto"/>
+  <path d="M 163 284 L 173 284" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 59 416 L 179 416 L 179 471 L 59 471 L 59 416 Z" shape-rendering="auto"/>
+  <path d="M 150 658 L 270 658 L 270 727 L 150 727 L 150 658 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="90.00" y="449.00" textLength="57" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 90.00 449.00)">Funcionário</text>
-	<text x="69.00" y="463.00" textLength="100" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 69.00 463.00)">Coordenador da Loja</text>
+	<text x="181.00" y="691.00" textLength="57" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 181.00 691.00)">Funcionário</text>
+	<text x="159.00" y="705.00" textLength="102" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 159.00 705.00)">Coordenador da DOC</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 165 421 C 165 419 166 418 168 418 170 418 171 419 171 421 171 423 170 424 168 424 166 424 165 423 165 421 Z" shape-rendering="auto"/>
-  <path d="M 168 424 L 168 429" shape-rendering="auto"/>
-  <path d="M 168 429 L 162 434" shape-rendering="auto"/>
-  <path d="M 168 429 L 174 434" shape-rendering="auto"/>
-  <path d="M 163 426 L 173 426" shape-rendering="auto"/>
+  <path d="M 256 663 C 256 661 257 660 259 660 261 660 262 661 262 663 262 665 261 666 259 666 257 666 256 665 256 663 Z" shape-rendering="auto"/>
+  <path d="M 259 666 L 259 671" shape-rendering="auto"/>
+  <path d="M 259 671 L 253 676" shape-rendering="auto"/>
+  <path d="M 259 671 L 265 676" shape-rendering="auto"/>
+  <path d="M 254 668 L 264 668" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 168 581 L 288 581 L 288 650 L 168 650 L 168 581 Z" shape-rendering="auto"/>
+  <path d="M 431 667 L 560 667 L 560 723 L 431 723 L 431 667 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="199.00" y="614.00" textLength="57" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 199.00 614.00)">Funcionário</text>
-	<text x="177.00" y="628.00" textLength="102" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 177.00 628.00)">Coordenador da DOC</text>
+	<text x="436.00" y="700.00" textLength="119" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 436.00 700.00)">Funcionário Operacional</text>
+	<text x="477.00" y="714.00" textLength="36" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 477.00 714.00)">da UnV</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 274 586 C 274 584 275 583 277 583 279 583 280 584 280 586 280 588 279 589 277 589 275 589 274 588 274 586 Z" shape-rendering="auto"/>
-  <path d="M 277 589 L 277 594" shape-rendering="auto"/>
-  <path d="M 277 594 L 271 599" shape-rendering="auto"/>
-  <path d="M 277 594 L 283 599" shape-rendering="auto"/>
-  <path d="M 272 591 L 282 591" shape-rendering="auto"/>
+  <path d="M 546 672 C 546 670 547 669 549 669 551 669 552 670 552 672 552 674 551 675 549 675 547 675 546 674 546 672 Z" shape-rendering="auto"/>
+  <path d="M 549 675 L 549 680" shape-rendering="auto"/>
+  <path d="M 549 680 L 543 685" shape-rendering="auto"/>
+  <path d="M 549 680 L 555 685" shape-rendering="auto"/>
+  <path d="M 544 677 L 554 677" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 431 637 L 560 637 L 560 693 L 431 693 L 431 637 Z" shape-rendering="auto"/>
+  <path d="M 575 671 L 695 671 L 695 726 L 575 726 L 575 671 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="436.00" y="670.00" textLength="119" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 436.00 670.00)">Funcionário Operacional</text>
-	<text x="477.00" y="684.00" textLength="36" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 477.00 684.00)">da UnV</text>
+	<text x="606.00" y="704.00" textLength="57" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 606.00 704.00)">Funcionário</text>
+	<text x="586.00" y="718.00" textLength="98" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 586.00 718.00)">Operacional da UnA</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 546 642 C 546 640 547 639 549 639 551 639 552 640 552 642 552 644 551 645 549 645 547 645 546 644 546 642 Z" shape-rendering="auto"/>
-  <path d="M 549 645 L 549 650" shape-rendering="auto"/>
-  <path d="M 549 650 L 543 655" shape-rendering="auto"/>
-  <path d="M 549 650 L 555 655" shape-rendering="auto"/>
-  <path d="M 544 647 L 554 647" shape-rendering="auto"/>
+  <path d="M 681 676 C 681 674 682 673 684 673 686 673 687 674 687 676 687 678 686 679 684 679 682 679 681 678 681 676 Z" shape-rendering="auto"/>
+  <path d="M 684 679 L 684 684" shape-rendering="auto"/>
+  <path d="M 684 684 L 678 689" shape-rendering="auto"/>
+  <path d="M 684 684 L 690 689" shape-rendering="auto"/>
+  <path d="M 679 681 L 689 681" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 575 638 L 695 638 L 695 693 L 575 693 L 575 638 Z" shape-rendering="auto"/>
+  <path d="M 1463 687 L 1583 687 L 1583 742 L 1463 742 L 1463 687 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="606.00" y="671.00" textLength="57" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 606.00 671.00)">Funcionário</text>
-	<text x="586.00" y="685.00" textLength="98" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 586.00 685.00)">Operacional da UnA</text>
+	<text x="1494.00" y="720.00" textLength="57" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1494.00 720.00)">Funcionário</text>
+	<text x="1474.00" y="734.00" textLength="97" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1474.00 734.00)">Operacional da UFC</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 681 643 C 681 641 682 640 684 640 686 640 687 641 687 643 687 645 686 646 684 646 682 646 681 645 681 643 Z" shape-rendering="auto"/>
-  <path d="M 684 646 L 684 651" shape-rendering="auto"/>
-  <path d="M 684 651 L 678 656" shape-rendering="auto"/>
-  <path d="M 684 651 L 690 656" shape-rendering="auto"/>
-  <path d="M 679 648 L 689 648" shape-rendering="auto"/>
+  <path d="M 1569 692 C 1569 690 1570 689 1572 689 1574 689 1575 690 1575 692 1575 694 1574 695 1572 695 1570 695 1569 694 1569 692 Z" shape-rendering="auto"/>
+  <path d="M 1572 695 L 1572 700" shape-rendering="auto"/>
+  <path d="M 1572 700 L 1566 705" shape-rendering="auto"/>
+  <path d="M 1572 700 L 1578 705" shape-rendering="auto"/>
+  <path d="M 1567 697 L 1577 697" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1463 719 L 1583 719 L 1583 774 L 1463 774 L 1463 719 Z" shape-rendering="auto"/>
+  <path d="M 1468 381 L 1588 381 L 1588 436 L 1468 436 L 1468 381 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="1494.00" y="752.00" textLength="57" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1494.00 752.00)">Funcionário</text>
-	<text x="1474.00" y="766.00" textLength="97" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1474.00 766.00)">Operacional da UFC</text>
+	<text x="1499.00" y="414.00" textLength="57" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1499.00 414.00)">Funcionário</text>
+	<text x="1478.00" y="428.00" textLength="100" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1478.00 428.00)">Coordenador da UFC</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1569 724 C 1569 722 1570 721 1572 721 1574 721 1575 722 1575 724 1575 726 1574 727 1572 727 1570 727 1569 726 1569 724 Z" shape-rendering="auto"/>
-  <path d="M 1572 727 L 1572 732" shape-rendering="auto"/>
-  <path d="M 1572 732 L 1566 737" shape-rendering="auto"/>
-  <path d="M 1572 732 L 1578 737" shape-rendering="auto"/>
-  <path d="M 1567 729 L 1577 729" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1463 531 L 1583 531 L 1583 586 L 1463 586 L 1463 531 Z" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="1494.00" y="564.00" textLength="57" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1494.00 564.00)">Funcionário</text>
-	<text x="1473.00" y="578.00" textLength="100" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1473.00 578.00)">Coordenador da UFC</text>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1569 536 C 1569 534 1570 533 1572 533 1574 533 1575 534 1575 536 1575 538 1574 539 1572 539 1570 539 1569 538 1569 536 Z" shape-rendering="auto"/>
-  <path d="M 1572 539 L 1572 544" shape-rendering="auto"/>
-  <path d="M 1572 544 L 1566 549" shape-rendering="auto"/>
-  <path d="M 1572 544 L 1578 549" shape-rendering="auto"/>
-  <path d="M 1567 541 L 1577 541" shape-rendering="auto"/>
+  <path d="M 1574 386 C 1574 384 1575 383 1577 383 1579 383 1580 384 1580 386 1580 388 1579 389 1577 389 1575 389 1574 388 1574 386 Z" shape-rendering="auto"/>
+  <path d="M 1577 389 L 1577 394" shape-rendering="auto"/>
+  <path d="M 1577 394 L 1571 399" shape-rendering="auto"/>
+  <path d="M 1577 394 L 1583 399" shape-rendering="auto"/>
+  <path d="M 1572 391 L 1582 391" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00" stroke-dasharray="3,3">
-  <path d="M 223 168 L 223 148" shape-rendering="auto"/>
-  <path d="M 223 148 L 451 148" shape-rendering="auto"/>
-  <path d="M 451 148 L 451 168" shape-rendering="auto"/>
+  <path d="M 352 102 L 352 82" shape-rendering="auto"/>
+  <path d="M 352 82 L 481 82" shape-rendering="auto"/>
+  <path d="M 481 82 L 481 102" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="225.00" y="162.00" textLength="41" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 225.00 162.00)">FUTURE</text>
+	<text x="354.00" y="96.00" textLength="41" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 354.00 96.00)">FUTURE</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00" stroke-dasharray="3,3">
-  <path d="M 223 168 L 223 245" shape-rendering="auto"/>
-  <path d="M 223 245 L 548 245" shape-rendering="auto"/>
-  <path d="M 548 245 L 548 168" shape-rendering="auto"/>
-  <path d="M 548 168 L 223 168" shape-rendering="auto"/>
+  <path d="M 352 102 L 352 188" shape-rendering="auto"/>
+  <path d="M 352 188 L 536 188" shape-rendering="auto"/>
+  <path d="M 536 188 L 536 102" shape-rendering="auto"/>
+  <path d="M 536 102 L 352 102" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 403 172 L 523 172 L 523 227 L 403 227 L 403 172 Z" shape-rendering="auto"/>
+  <path d="M 391 115 L 511 115 L 511 170 L 391 170 L 391 115 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="442.00" y="205.00" textLength="42" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 442.00 205.00)">PREDICT</text>
+	<text x="430.00" y="148.00" textLength="42" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 430.00 148.00)">PREDICT</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 506 176 L 506 174" shape-rendering="auto"/>
-  <path d="M 506 174 L 518 174" shape-rendering="auto"/>
-  <path d="M 518 174 L 518 190" shape-rendering="auto"/>
-  <path d="M 518 190 L 506 190" shape-rendering="auto"/>
-  <path d="M 506 190 L 506 185" shape-rendering="auto"/>
-  <path d="M 506 182 L 506 179" shape-rendering="auto"/>
-  <path d="M 504 176 L 510 176 L 510 179 L 504 179 L 504 176 M 504 182 L 510 182 L 510 185 L 504 185 L 504 182" shape-rendering="auto"/>
+  <path d="M 494 119 L 494 117" shape-rendering="auto"/>
+  <path d="M 494 117 L 506 117" shape-rendering="auto"/>
+  <path d="M 506 117 L 506 133" shape-rendering="auto"/>
+  <path d="M 506 133 L 494 133" shape-rendering="auto"/>
+  <path d="M 494 133 L 494 128" shape-rendering="auto"/>
+  <path d="M 494 125 L 494 122" shape-rendering="auto"/>
+  <path d="M 492 119 L 498 119 L 498 122 L 492 122 L 492 119 M 492 125 L 498 125 L 498 128 L 492 128 L 492 125" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00" stroke-dasharray="3,3">
+  <path d="M 910 856 L 910 836" shape-rendering="auto"/>
+  <path d="M 910 836 L 1029 836" shape-rendering="auto"/>
+  <path d="M 1029 836 L 1029 856" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
+	<text x="912.00" y="850.00" textLength="43" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 912.00 850.00)">PICKTRU</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00" stroke-dasharray="3,3">
+  <path d="M 910 856 L 910 946" shape-rendering="auto"/>
+  <path d="M 910 946 L 1080 946" shape-rendering="auto"/>
+  <path d="M 1080 946 L 1080 856" shape-rendering="auto"/>
+  <path d="M 1080 856 L 910 856" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 247 172 L 367 172 L 367 227 L 247 227 L 247 172 Z" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="286.00" y="205.00" textLength="41" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 286.00 205.00)">FUTURE</text>
+  <path d="M 945 872 L 1065 872 L 1065 927 L 945 927 L 945 872 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 353 177 C 353 175 354 174 356 174 358 174 359 175 359 177 359 179 358 180 356 180 354 180 353 179 353 177 Z" shape-rendering="auto"/>
-  <path d="M 356 180 L 356 185" shape-rendering="auto"/>
-  <path d="M 356 185 L 350 190" shape-rendering="auto"/>
-  <path d="M 356 185 L 362 190" shape-rendering="auto"/>
-  <path d="M 351 182 L 361 182" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00" stroke-dasharray="3,3">
-  <path d="M 978 912 L 978 892" shape-rendering="auto"/>
-  <path d="M 978 892 L 1097 892" shape-rendering="auto"/>
-  <path d="M 1097 892 L 1097 912" shape-rendering="auto"/>
+  <path d="M 945 892 L 1029 892" shape-rendering="auto"/>
+  <path d="M 1029 892 L 1029 872" shape-rendering="auto"/>
+  <path d="M 1065 920" shape-rendering="auto"/>
+  <path d="M 1065 920 L 1065 898" shape-rendering="auto"/>
+  <path d="M 945 920" shape-rendering="auto"/>
+  <path d="M 945 920 L 945 898" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="980.00" y="906.00" textLength="43" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 980.00 906.00)">PICKTRU</text>
+	<text x="983.00" y="911.00" textLength="43" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 983.00 911.00)">PICKTRU</text>
 </g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00" stroke-dasharray="3,3">
-  <path d="M 978 912 L 978 1002" shape-rendering="auto"/>
-  <path d="M 978 1002 L 1148 1002" shape-rendering="auto"/>
-  <path d="M 1148 1002 L 1148 912" shape-rendering="auto"/>
-  <path d="M 1148 912 L 978 912" shape-rendering="auto"/>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
+  <path d="M 575 471 L 1271 471 L 1271 526 L 575 526 L 575 471 Z" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
+	<text x="912.00" y="504.00" textLength="22" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 912.00 504.00)">SCM</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
+  <path d="M 1254 475 L 1254 473" shape-rendering="auto"/>
+  <path d="M 1254 473 L 1266 473" shape-rendering="auto"/>
+  <path d="M 1266 473 L 1266 489" shape-rendering="auto"/>
+  <path d="M 1266 489 L 1254 489" shape-rendering="auto"/>
+  <path d="M 1254 489 L 1254 484" shape-rendering="auto"/>
+  <path d="M 1254 481 L 1254 478" shape-rendering="auto"/>
+  <path d="M 1252 475 L 1258 475 L 1258 478 L 1252 478 L 1252 475 M 1252 481 L 1258 481 L 1258 484 L 1252 484 L 1252 481" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
+  <path d="M 1124 554 L 1244 554 L 1244 609 L 1124 609 L 1124 554 Z" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
+	<text x="1165.00" y="587.00" textLength="37" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1165.00 587.00)">UI-SCM</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
+  <path d="M 1225 564 L 1231 564" shape-rendering="auto"/>
+  <path d="M 1231 564 C 1231 561 1233 559 1236 559 1239 559 1241 561 1241 564 1241 567 1239 569 1236 569 1233 569 1231 567 1231 564 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1013 928 L 1133 928 L 1133 983 L 1013 983 L 1013 928 Z" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1013 948 L 1097 948" shape-rendering="auto"/>
-  <path d="M 1097 948 L 1097 928" shape-rendering="auto"/>
-  <path d="M 1133 976" shape-rendering="auto"/>
-  <path d="M 1133 976 L 1133 954" shape-rendering="auto"/>
-  <path d="M 1013 976" shape-rendering="auto"/>
-  <path d="M 1013 976 L 1013 954" shape-rendering="auto"/>
+  <path d="M 1124 722 L 1244 722 L 1244 777 L 1124 777 L 1124 722 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="1051.00" y="967.00" textLength="43" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1051.00 967.00)">PICKTRU</text>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 575 527 L 1271 527 L 1271 582 L 575 582 L 575 527 Z" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="912.00" y="560.00" textLength="22" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 912.00 560.00)">SCM</text>
+	<text x="1129.00" y="755.00" textLength="110" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1129.00 755.00)">Direção Técnica (DirT)</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1254 531 L 1254 529" shape-rendering="auto"/>
-  <path d="M 1254 529 L 1266 529" shape-rendering="auto"/>
-  <path d="M 1266 529 L 1266 545" shape-rendering="auto"/>
-  <path d="M 1266 545 L 1254 545" shape-rendering="auto"/>
-  <path d="M 1254 545 L 1254 540" shape-rendering="auto"/>
-  <path d="M 1254 537 L 1254 534" shape-rendering="auto"/>
-  <path d="M 1252 531 L 1258 531 L 1258 534 L 1252 534 L 1252 531 M 1252 537 L 1258 537 L 1258 540 L 1252 540 L 1252 537" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1151 611 L 1271 611 L 1271 666 L 1151 666 L 1151 611 Z" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="1192.00" y="644.00" textLength="37" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1192.00 644.00)">UI-SCM</text>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1252 621 L 1258 621" shape-rendering="auto"/>
-  <path d="M 1258 621 C 1258 618 1260 616 1263 616 1266 616 1268 618 1268 621 1268 624 1266 626 1263 626 1260 626 1258 624 1258 621 Z" shape-rendering="auto"/>
+  <path d="M 1230 727 C 1230 725 1231 724 1233 724 1235 724 1236 725 1236 727 1236 729 1235 730 1233 730 1231 730 1230 729 1230 727 Z" shape-rendering="auto"/>
+  <path d="M 1233 730 L 1233 735" shape-rendering="auto"/>
+  <path d="M 1233 735 L 1227 740" shape-rendering="auto"/>
+  <path d="M 1233 735 L 1239 740" shape-rendering="auto"/>
+  <path d="M 1228 732 L 1238 732" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1151 779 L 1271 779 L 1271 834 L 1151 834 L 1151 779 Z" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="1156.00" y="812.00" textLength="110" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1156.00 812.00)">Direção Técnica (DirT)</text>
+  <path d="M 286 664 L 406 664 L 406 726 L 286 726 L 286 664 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1257 784 C 1257 782 1258 781 1260 781 1262 781 1263 782 1263 784 1263 786 1262 787 1260 787 1258 787 1257 786 1257 784 Z" shape-rendering="auto"/>
-  <path d="M 1260 787 L 1260 792" shape-rendering="auto"/>
-  <path d="M 1260 792 L 1254 797" shape-rendering="auto"/>
-  <path d="M 1260 792 L 1266 797" shape-rendering="auto"/>
-  <path d="M 1255 789 L 1265 789" shape-rendering="auto"/>
+  <path d="M 286 680 L 406 680" shape-rendering="auto"/>
+  <path d="M 286 710 L 406 710" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
+	<text x="325.00" y="703.00" textLength="42" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 325.00 703.00)">Contrato</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
+  <path d="M 1151 387 L 1271 387 L 1271 442 L 1151 442 L 1151 387 Z" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
+	<text x="1192.00" y="420.00" textLength="37" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1192.00 420.00)">IN-SCM</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
+  <path d="M 1252 397 L 1258 397" shape-rendering="auto"/>
+  <path d="M 1258 397 C 1258 394 1260 392 1263 392 1266 392 1268 394 1268 397 1268 400 1266 402 1263 402 1260 402 1258 400 1258 397 Z" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
+  <path d="M 863 387 L 983 387 L 983 442 L 863 442 L 863 387 Z" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
+	<text x="899.00" y="420.00" textLength="48" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 899.00 420.00)">OUT-SCM</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
+  <path d="M 964 397 L 970 397" shape-rendering="auto"/>
+  <path d="M 970 397 C 970 394 972 392 975 392 978 392 980 394 980 397 980 400 978 402 975 402 972 402 970 400 970 397 Z" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
+  <path d="M 575 387 L 695 387 L 695 442 L 575 442 L 575 387 Z" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
+	<text x="612.00" y="420.00" textLength="45" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 612.00 420.00)">PRE-SCM</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
+  <path d="M 676 397 L 682 397" shape-rendering="auto"/>
+  <path d="M 682 397 C 682 394 684 392 687 392 690 392 692 394 692 397 692 400 690 402 687 402 684 402 682 400 682 397 Z" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00" stroke-dasharray="3,3">
+  <path d="M 341 856 L 341 836" shape-rendering="auto"/>
+  <path d="M 341 836 L 503 836" shape-rendering="auto"/>
+  <path d="M 503 836 L 503 856" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
+	<text x="343.00" y="850.00" textLength="120" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 343.00 850.00)">Operador de transportes</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00" stroke-dasharray="3,3">
+  <path d="M 341 856 L 341 976" shape-rendering="auto"/>
+  <path d="M 341 976 L 573 976" shape-rendering="auto"/>
+  <path d="M 573 976 L 573 856" shape-rendering="auto"/>
+  <path d="M 573 856 L 341 856" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 864 789 L 984 789 L 984 851 L 864 851 L 864 789 Z" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 864 805 L 984 805" shape-rendering="auto"/>
-  <path d="M 864 835 L 984 835" shape-rendering="auto"/>
+  <path d="M 401 896 L 521 896 L 521 951 L 401 951 L 401 896 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="903.00" y="828.00" textLength="42" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 903.00 828.00)">Contrato</text>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1151 443 L 1271 443 L 1271 498 L 1151 498 L 1151 443 Z" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="1192.00" y="476.00" textLength="37" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1192.00 476.00)">IN-SCM</text>
+	<text x="430.00" y="929.00" textLength="61" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 430.00 929.00)">Operador de</text>
+	<text x="433.00" y="943.00" textLength="56" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 433.00 943.00)">transportes</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1252 453 L 1258 453" shape-rendering="auto"/>
-  <path d="M 1258 453 C 1258 450 1260 448 1263 448 1266 448 1268 450 1268 453 1268 456 1266 458 1263 458 1260 458 1258 456 1258 453 Z" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 863 443 L 983 443 L 983 498 L 863 498 L 863 443 Z" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="899.00" y="476.00" textLength="48" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 899.00 476.00)">OUT-SCM</text>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 964 453 L 970 453" shape-rendering="auto"/>
-  <path d="M 970 453 C 970 450 972 448 975 448 978 448 980 450 980 453 980 456 978 458 975 458 972 458 970 456 970 453 Z" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 575 443 L 695 443 L 695 498 L 575 498 L 575 443 Z" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="612.00" y="476.00" textLength="45" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 612.00 476.00)">PRE-SCM</text>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 676 453 L 682 453" shape-rendering="auto"/>
-  <path d="M 682 453 C 682 450 684 448 687 448 690 448 692 450 692 453 692 456 690 458 687 458 684 458 682 456 682 453 Z" shape-rendering="auto"/>
+  <path d="M 507 901 C 507 899 508 898 510 898 512 898 513 899 513 901 513 903 512 904 510 904 508 904 507 903 507 901 Z" shape-rendering="auto"/>
+  <path d="M 510 904 L 510 909" shape-rendering="auto"/>
+  <path d="M 510 909 L 504 914" shape-rendering="auto"/>
+  <path d="M 510 909 L 516 914" shape-rendering="auto"/>
+  <path d="M 505 906 L 515 906" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00" stroke-dasharray="3,3">
-  <path d="M 340 912 L 340 892" shape-rendering="auto"/>
-  <path d="M 340 892 L 502 892" shape-rendering="auto"/>
-  <path d="M 502 892 L 502 912" shape-rendering="auto"/>
+  <path d="M 1220 76 L 1220 56" shape-rendering="auto"/>
+  <path d="M 1220 56 L 1380 56" shape-rendering="auto"/>
+  <path d="M 1380 56 L 1380 76" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="342.00" y="906.00" textLength="120" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 342.00 906.00)">Operador de transportes</text>
+	<text x="1222.00" y="70.00" textLength="55" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1222.00 70.00)">Fornecedor</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00" stroke-dasharray="3,3">
-  <path d="M 340 912 L 340 1032" shape-rendering="auto"/>
-  <path d="M 340 1032 L 572 1032" shape-rendering="auto"/>
-  <path d="M 572 1032 L 572 912" shape-rendering="auto"/>
-  <path d="M 572 912 L 340 912" shape-rendering="auto"/>
+  <path d="M 1220 76 L 1220 204" shape-rendering="auto"/>
+  <path d="M 1220 204 L 1449 204" shape-rendering="auto"/>
+  <path d="M 1449 204 L 1449 76" shape-rendering="auto"/>
+  <path d="M 1449 76 L 1220 76" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 400 952 L 520 952 L 520 1007 L 400 1007 L 400 952 Z" shape-rendering="auto"/>
+  <path d="M 1280 104 L 1400 104 L 1400 159 L 1280 159 L 1280 104 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="429.00" y="985.00" textLength="61" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 429.00 985.00)">Operador de</text>
-	<text x="432.00" y="999.00" textLength="56" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 432.00 999.00)">transportes</text>
+	<text x="1312.00" y="137.00" textLength="55" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1312.00 137.00)">Fornecedor</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 506 957 C 506 955 507 954 509 954 511 954 512 955 512 957 512 959 511 960 509 960 507 960 506 959 506 957 Z" shape-rendering="auto"/>
-  <path d="M 509 960 L 509 965" shape-rendering="auto"/>
-  <path d="M 509 965 L 503 970" shape-rendering="auto"/>
-  <path d="M 509 965 L 515 970" shape-rendering="auto"/>
-  <path d="M 504 962 L 514 962" shape-rendering="auto"/>
+  <path d="M 1386 109 C 1386 107 1387 106 1389 106 1391 106 1392 107 1392 109 1392 111 1391 112 1389 112 1387 112 1386 111 1386 109 Z" shape-rendering="auto"/>
+  <path d="M 1389 112 L 1389 117" shape-rendering="auto"/>
+  <path d="M 1389 117 L 1383 122" shape-rendering="auto"/>
+  <path d="M 1389 117 L 1395 122" shape-rendering="auto"/>
+  <path d="M 1384 114 L 1394 114" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00" stroke-dasharray="3,3">
-  <path d="M 1219 132 L 1219 112" shape-rendering="auto"/>
-  <path d="M 1219 112 L 1379 112" shape-rendering="auto"/>
-  <path d="M 1379 112 L 1379 132" shape-rendering="auto"/>
+  <path d="M 864 93 L 864 73" shape-rendering="auto"/>
+  <path d="M 864 73 L 996 73" shape-rendering="auto"/>
+  <path d="M 996 73 L 996 93" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="1221.00" y="126.00" textLength="55" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1221.00 126.00)">Fornecedor</text>
+	<text x="866.00" y="87.00" textLength="25" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 866.00 87.00)">SCAP</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00" stroke-dasharray="3,3">
-  <path d="M 1219 132 L 1219 260" shape-rendering="auto"/>
-  <path d="M 1219 260 L 1448 260" shape-rendering="auto"/>
-  <path d="M 1448 260 L 1448 132" shape-rendering="auto"/>
-  <path d="M 1448 132 L 1219 132" shape-rendering="auto"/>
+  <path d="M 864 93 L 864 188" shape-rendering="auto"/>
+  <path d="M 864 188 L 1053 188" shape-rendering="auto"/>
+  <path d="M 1053 188 L 1053 93" shape-rendering="auto"/>
+  <path d="M 1053 93 L 864 93" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
+  <path d="M 899 119 L 1019 119 L 1019 174 L 899 174 L 899 119 Z" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
+	<text x="946.00" y="152.00" textLength="25" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 946.00 152.00)">SCAP</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
+  <path d="M 1002 123 L 1002 121" shape-rendering="auto"/>
+  <path d="M 1002 121 L 1014 121" shape-rendering="auto"/>
+  <path d="M 1014 121 L 1014 137" shape-rendering="auto"/>
+  <path d="M 1014 137 L 1002 137" shape-rendering="auto"/>
+  <path d="M 1002 137 L 1002 132" shape-rendering="auto"/>
+  <path d="M 1002 129 L 1002 126" shape-rendering="auto"/>
+  <path d="M 1000 123 L 1006 123 L 1006 126 L 1000 126 L 1000 123 M 1000 129 L 1006 129 L 1006 132 L 1000 132 L 1000 129" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1279 160 L 1399 160 L 1399 215 L 1279 215 L 1279 160 Z" shape-rendering="auto"/>
+  <path d="M 150 555 L 270 555 L 270 610 L 150 610 L 150 555 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="1311.00" y="193.00" textLength="55" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1311.00 193.00)">Fornecedor</text>
+	<text x="165.00" y="588.00" textLength="90" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 165.00 588.00)">Gerir Encomendas</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1385 165 C 1385 163 1386 162 1388 162 1390 162 1391 163 1391 165 1391 167 1390 168 1388 168 1386 168 1385 167 1385 165 Z" shape-rendering="auto"/>
-  <path d="M 1388 168 L 1388 173" shape-rendering="auto"/>
-  <path d="M 1388 173 L 1382 178" shape-rendering="auto"/>
-  <path d="M 1388 173 L 1394 178" shape-rendering="auto"/>
-  <path d="M 1383 170 L 1393 170" shape-rendering="auto"/>
+  <path d="M 265 561 L 253 561" shape-rendering="auto"/>
+  <path d="M 253 561 C 253 561 251 561 251 565 251 565 251 569 253 569 253 569 253 569 253 569" shape-rendering="auto"/>
+  <path d="M 253 569 L 265 569" shape-rendering="auto"/>
+  <path d="M 264 565 C 264 563 265 561 266 561 266 561 267 563 267 565 267 567 266 569 266 569 265 569 264 567 264 565 Z" shape-rendering="auto"/>
 </g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00" stroke-dasharray="3,3">
-  <path d="M 703 108 L 703 88" shape-rendering="auto"/>
-  <path d="M 703 88 L 983 88" shape-rendering="auto"/>
-  <path d="M 983 88 L 983 108" shape-rendering="auto"/>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
+  <path d="M 575 582 L 695 582 L 695 637 L 575 637 L 575 582 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="705.00" y="102.00" textLength="25" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 705.00 102.00)">SCAP</text>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00" stroke-dasharray="3,3">
-  <path d="M 703 108 L 703 260" shape-rendering="auto"/>
-  <path d="M 703 260 L 1103 260" shape-rendering="auto"/>
-  <path d="M 1103 260 L 1103 108" shape-rendering="auto"/>
-  <path d="M 1103 108 L 703 108" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 727 148 L 847 148 L 847 203 L 727 203 L 727 148 Z" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="774.00" y="181.00" textLength="25" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 774.00 181.00)">SCAP</text>
+	<text x="584.00" y="615.00" textLength="102" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 584.00 615.00)">Arrumar Produtos no</text>
+	<text x="611.00" y="629.00" textLength="48" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 611.00 629.00)">Armazém</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 830 152 L 830 150" shape-rendering="auto"/>
-  <path d="M 830 150 L 842 150" shape-rendering="auto"/>
-  <path d="M 842 150 L 842 166" shape-rendering="auto"/>
-  <path d="M 842 166 L 830 166" shape-rendering="auto"/>
-  <path d="M 830 166 L 830 161" shape-rendering="auto"/>
-  <path d="M 830 158 L 830 155" shape-rendering="auto"/>
-  <path d="M 828 152 L 834 152 L 834 155 L 828 155 L 828 152 M 828 158 L 834 158 L 834 161 L 828 161 L 828 158" shape-rendering="auto"/>
+  <path d="M 690 588 L 678 588" shape-rendering="auto"/>
+  <path d="M 678 588 C 678 588 676 588 676 592 676 592 676 596 678 596 678 596 678 596 678 596" shape-rendering="auto"/>
+  <path d="M 678 596 L 690 596" shape-rendering="auto"/>
+  <path d="M 689 592 C 689 590 690 588 690 588 691 588 692 590 692 592 692 594 691 596 690 596 690 596 689 594 689 592 Z" shape-rendering="auto"/>
 </g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
- <rect x="911" y="112" width="129" height="55" rx="10.00" shape-rendering="auto"  />
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
+  <path d="M 1463 594 L 1583 594 L 1583 649 L 1463 649 L 1463 594 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="928.00" y="145.00" textLength="95" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 928.00 145.00)">Assinar mensagens</text>
+	<text x="1472.00" y="627.00" textLength="102" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 1472.00 627.00)">Avaliar Candidaturas</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1025 126 L 1033 126" shape-rendering="auto"/>
-  <path d="M 1033 126 C 1033 126 1033 126 1033 126 1033 126 1037 126 1037 122 1037 122 1037 118 1033 118" shape-rendering="auto"/>
-  <path d="M 1033 118 L 1025 118" shape-rendering="auto"/>
-  <path d="M 1025 118 C 1025 118 1021 118 1021 122 1021 122 1021 126 1025 126 1025 126 1025 126 1025 126" shape-rendering="auto"/>
+  <path d="M 1578 600 L 1566 600" shape-rendering="auto"/>
+  <path d="M 1566 600 C 1566 600 1564 600 1564 604 1564 604 1564 608 1566 608 1566 608 1566 608 1566 608" shape-rendering="auto"/>
+  <path d="M 1566 608 L 1578 608" shape-rendering="auto"/>
+  <path d="M 1577 604 C 1577 602 1578 600 1578 600 1579 600 1580 602 1580 604 1580 606 1579 608 1578 608 1578 608 1577 606 1577 604 Z" shape-rendering="auto"/>
 </g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#B5FFFF;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
- <rect x="911" y="184" width="128" height="61" rx="10.00" shape-rendering="auto"  />
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFB5;fill-opacity:1.00; stroke:#5C5C5C; stroke-opacity:1.00">
+  <path d="M 435 582 L 555 582 L 555 637 L 435 637 L 435 582 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="916.00" y="217.00" textLength="118" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 916.00 217.00)">Confirmar assinatura de</text>
-	<text x="947.00" y="231.00" textLength="55" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 947.00 231.00)">mensagem</text>
+	<text x="444.00" y="615.00" textLength="102" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 444.00 615.00)">Arrumar Produtos no</text>
+	<text x="477.00" y="629.00" textLength="36" style="font-family:Carlito; font-weight:700; font-style:normal; font-size:12px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 477.00 629.00)">Interior</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#5C5C5C; stroke-opacity:1.00">
-  <path d="M 1024 198 L 1032 198" shape-rendering="auto"/>
-  <path d="M 1032 198 C 1032 198 1032 198 1032 198 1032 198 1036 198 1036 194 1036 194 1036 190 1032 190" shape-rendering="auto"/>
-  <path d="M 1032 190 L 1024 190" shape-rendering="auto"/>
-  <path d="M 1024 190 C 1024 190 1020 190 1020 194 1020 194 1020 198 1024 198 1024 198 1024 198 1024 198" shape-rendering="auto"/>
+  <path d="M 550 588 L 538 588" shape-rendering="auto"/>
+  <path d="M 538 588 C 538 588 536 588 536 592 536 592 536 596 538 596 538 596 538 596 538 596" shape-rendering="auto"/>
+  <path d="M 538 596 L 550 596" shape-rendering="auto"/>
+  <path d="M 549 592 C 549 590 550 588 550 588 551 588 552 590 552 592 552 594 551 596 550 596 550 596 549 594 549 592 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00" stroke-dasharray="3,3">
-  <path d="M 1393 554 L 1393 484" shape-rendering="auto"/>
-  <path d="M 1393 484 C 1393 482 1393 481 1394 480 M 1398 477 C 1398 477 1399 477 1399 477" shape-rendering="auto"/>
-  <path d="M 1399 478 L 1463 478" shape-rendering="auto"/>
+  <path d="M 1394 498 L 1394 319" shape-rendering="auto"/>
+  <path d="M 1394 319 C 1394 317 1394 316 1395 315 M 1399 312 C 1399 312 1400 312 1400 312" shape-rendering="auto"/>
+  <path d="M 1400 313 L 1463 313" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 1448 483 L 1463 478 L 1448 473" shape-rendering="auto"/>
-  <path d="M 1544 634 L 1544 599" shape-rendering="auto"/>
-  <path d="M 1544 599 C 1544 596 1541 593 1538 593" shape-rendering="auto"/>
-  <path d="M 1538 593 L 1427 593" shape-rendering="auto"/>
+  <path d="M 1448 318 L 1463 313 L 1448 308" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 1427 593 L 1437 597 L 1437 589 L 1427 593 Z" shape-rendering="auto"/>
+<ellipse cx="1468.00" cy="516.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
+  <path d="M 1427 516 L 1437 520 L 1437 512 L 1427 516 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 1271 701 L 1325 701" shape-rendering="auto"/>
-  <path d="M 1325 701 C 1328 701 1331 698 1331 695" shape-rendering="auto"/>
-  <path d="M 1331 695 L 1331 609" shape-rendering="auto"/>
-  <path d="M 1337 624 L 1331 609 L 1325 624" shape-rendering="auto"/>
-  <path d="M 779 350 L 779 421" shape-rendering="auto"/>
-  <path d="M 1464 413 L 1384 413" shape-rendering="auto"/>
-  <path d="M 1384 413 C 1381 413 1378 416 1378 419" shape-rendering="auto"/>
-  <path d="M 1378 419 L 1378 554" shape-rendering="auto"/>
+  <path d="M 1468 516 L 1427 516" shape-rendering="auto"/>
+  <path d="M 1244 649 L 1325 649" shape-rendering="auto"/>
+  <path d="M 1325 649 C 1328 649 1331 646 1331 643" shape-rendering="auto"/>
+  <path d="M 1331 643 L 1331 553" shape-rendering="auto"/>
+  <path d="M 1337 568 L 1331 553 L 1325 568" shape-rendering="auto"/>
+  <path d="M 780 300 L 780 365" shape-rendering="auto"/>
+  <path d="M 1100 387 L 1100 367" shape-rendering="auto"/>
+  <path d="M 1100 367 C 1100 364 1103 361 1106 361" shape-rendering="auto"/>
+  <path d="M 1106 361 L 1325 361" shape-rendering="auto"/>
+  <path d="M 1325 361 C 1328 361 1331 364 1331 367" shape-rendering="auto"/>
+  <path d="M 1331 367 L 1331 498" shape-rendering="auto"/>
+  <path d="M 1325 483 L 1331 498 L 1337 483" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00" stroke-dasharray="3,3">
+  <path d="M 1079 300 L 983 300" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
+  <path d="M 998 295 L 983 300 L 998 305" shape-rendering="auto"/>
+  <path d="M 1199 302 L 1220 302" shape-rendering="auto"/>
+  <path d="M 1205 308 L 1220 302 L 1205 296" shape-rendering="auto"/>
+  <path d="M 1368 663 L 1368 553" shape-rendering="auto"/>
+  <path d="M 1374 568 L 1368 553 L 1362 568" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 1378 554 L 1382 544 L 1374 544 L 1378 554 Z" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00" stroke-dasharray="3,3">
-  <path d="M 1524 421 L 1524 443" shape-rendering="auto"/>
+<ellipse cx="152.00" cy="415.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
+  <path d="M 372 492 L 362 488 L 362 496 L 372 492 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 1519 428 L 1524 443 L 1529 428" shape-rendering="auto"/>
-  <path d="M 1099 443 L 1099 413" shape-rendering="auto"/>
-  <path d="M 1099 413 C 1099 410 1102 407 1105 407" shape-rendering="auto"/>
-  <path d="M 1105 407 L 1325 407" shape-rendering="auto"/>
-  <path d="M 1325 407 C 1328 407 1331 410 1331 413" shape-rendering="auto"/>
-  <path d="M 1331 413 L 1331 554" shape-rendering="auto"/>
-  <path d="M 1325 539 L 1331 554 L 1337 539" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00" stroke-dasharray="3,3">
-  <path d="M 1079 356 L 983 356" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 998 351 L 983 356 L 998 361" shape-rendering="auto"/>
-  <path d="M 1199 358 L 1220 358" shape-rendering="auto"/>
-  <path d="M 1205 364 L 1220 358 L 1205 352" shape-rendering="auto"/>
-  <path d="M 1368 719 L 1368 609" shape-rendering="auto"/>
-  <path d="M 1374 624 L 1368 609 L 1362 624" shape-rendering="auto"/>
-  <path d="M 385 480 L 385 518" shape-rendering="auto"/>
+  <path d="M 152 415 L 152 486 C 152 489 155 492 158 492 L 372 492" shape-rendering="auto"/>
+  <path d="M 386 424 L 386 462" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 385 518 L 389 508 L 381 508 L 385 518 Z" shape-rendering="auto"/>
+  <path d="M 386 462 L 390 452 L 382 452 L 386 462 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00" stroke-dasharray="3,3">
-  <path d="M 343 407 L 343 368" shape-rendering="auto"/>
-  <path d="M 343 368 C 343 366 343 365 344 364 M 348 361 C 348 361 349 361 349 361" shape-rendering="auto"/>
-  <path d="M 349 362 L 863 362" shape-rendering="auto"/>
+  <path d="M 344 351 L 344 313" shape-rendering="auto"/>
+  <path d="M 344 313 C 344 311 344 310 345 309 M 349 306 C 349 306 350 306 350 306" shape-rendering="auto"/>
+  <path d="M 350 307 L 863 307" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 848 367 L 863 362 L 848 357" shape-rendering="auto"/>
-  <path d="M 785 638 L 785 582" shape-rendering="auto"/>
+  <path d="M 848 312 L 863 307 L 848 302" shape-rendering="auto"/>
+  <path d="M 372 534 L 334 534 C 331 534 328 537 328 540 L 328 664" shape-rendering="auto"/>
+  <path d="M 785 582 L 785 526" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FAF1EC;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-  <polygon points="791 598 779 598 785 582" shape-rendering="auto"   style="fill-rule:evenodd;"/>
+  <polygon points="791 542 779 542 785 526" shape-rendering="auto"   style="fill-rule:evenodd;"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 755 693 L 755 766" shape-rendering="auto"/>
-  <path d="M 755 766 C 755 769 752 772 749 772" shape-rendering="auto"/>
-  <path d="M 749 772 L 707 772" shape-rendering="auto"/>
-  <path d="M 722 766 L 707 772 L 722 778" shape-rendering="auto"/>
-  <path d="M 587 755 L 121 755 C 118 755 115 752 115 749 L 115 471" shape-rendering="auto"/>
-  <path d="M 1072 663 L 1072 928" shape-rendering="auto"/>
-  <path d="M 1066 913 L 1072 928 L 1078 913" shape-rendering="auto"/>
-  <path d="M 923 754 L 923 789" shape-rendering="auto"/>
-  <path d="M 923 663 L 923 699" shape-rendering="auto"/>
-  <path d="M 917 684 L 923 699 L 929 684" shape-rendering="auto"/>
+  <path d="M 769 637 L 769 671" shape-rendering="auto"/>
+  <path d="M 763 656 L 769 671 L 775 656" shape-rendering="auto"/>
+  <path d="M 766 726 L 766 764 C 766 767 763 770 760 770 L 122 770 C 119 770 116 767 116 764 L 116 415" shape-rendering="auto"/>
+  <path d="M 1001 610 L 1001 872" shape-rendering="auto"/>
+  <path d="M 995 857 L 1001 872 L 1007 857" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-<ellipse cx="151.00" cy="471.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
-  <path d="M 371 548 L 361 544 L 361 552 L 371 548 Z" shape-rendering="auto"/>
+<ellipse cx="119.00" cy="329.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
+  <path d="M 119 360 L 123 350 L 115 350 L 119 360 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 151 471 L 151 542 C 151 545 154 548 157 548 L 371 548" shape-rendering="auto"/>
+  <path d="M 119 329 L 119 360" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-<ellipse cx="119.00" cy="416.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
-  <path d="M 119 384 L 115 394 L 123 394 L 119 384 Z" shape-rendering="auto"/>
+<ellipse cx="210.00" cy="658.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
+  <path d="M 210 610 L 206 620 L 214 620 L 210 610 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 119 416 L 119 384" shape-rendering="auto"/>
+  <path d="M 210 658 L 210 610" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-<ellipse cx="259.00" cy="581.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
-  <path d="M 371 575 L 361 571 L 361 579 L 371 575 Z" shape-rendering="auto"/>
+<ellipse cx="495.00" cy="667.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
+  <path d="M 495 637 L 491 647 L 499 647 L 495 637 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 259 581 C 259 578 262 575 265 575 L 371 575" shape-rendering="auto"/>
-  <path d="M 226 581 L 226 461" shape-rendering="auto"/>
-  <path d="M 226 461 C 226 458 229 455 232 455" shape-rendering="auto"/>
-  <path d="M 232 455 L 299 455" shape-rendering="auto"/>
+  <path d="M 495 667 L 495 637" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 299 455 L 289 451 L 289 459 L 299 455 Z" shape-rendering="auto"/>
-<ellipse cx="481.00" cy="637.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
-  <path d="M 481 600 L 477 610 L 485 610 L 481 600 Z" shape-rendering="auto"/>
+<ellipse cx="635.00" cy="671.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
+  <path d="M 635 637 L 631 647 L 639 647 L 635 637 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 481 637 L 481 600" shape-rendering="auto"/>
+  <path d="M 635 671 L 635 637" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-<ellipse cx="582.00" cy="638.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
-  <path d="M 516 599 L 526 603 L 526 595 L 516 599 Z" shape-rendering="auto"/>
+<ellipse cx="1523.00" cy="687.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
+  <path d="M 1523 649 L 1519 659 L 1527 659 L 1523 649 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 582 638 L 582 605 C 582 602 579 599 576 599 L 516 599" shape-rendering="auto"/>
+  <path d="M 1523 687 L 1523 649" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-<ellipse cx="1493.00" cy="719.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
-  <path d="M 1427 609 L 1437 613 L 1437 605 L 1427 609 Z" shape-rendering="auto"/>
+<ellipse cx="1525.00" cy="436.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
+  <path d="M 1525 471 L 1529 461 L 1521 461 L 1525 471 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 1493 719 L 1493 615 C 1493 612 1490 609 1487 609 L 1427 609" shape-rendering="auto"/>
-  <path d="M 1568 586 L 1568 634" shape-rendering="auto"/>
+  <path d="M 1525 436 L 1525 471" shape-rendering="auto"/>
+  <path d="M 1070 471 L 1070 442" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 1568 634 L 1572 624 L 1564 624 L 1568 634 Z" shape-rendering="auto"/>
-<ellipse cx="1463.00" cy="572.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
-  <path d="M 1427 572 L 1437 576 L 1437 568 L 1427 572 Z" shape-rendering="auto"/>
+  <polygon points="1065 461 1070 471 1075 461 1070 451" shape-rendering="auto"   style="fill-rule:evenodd;"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 1463 572 L 1427 572" shape-rendering="auto"/>
+  <path d="M 1000 526 L 1000 555" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-<ellipse cx="1583.00" cy="558.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
-  <path d="M 1607 558 L 1597 554 L 1597 562 L 1607 558 Z" shape-rendering="auto"/>
+  <polygon points="1005 536 1000 526 995 536 1000 546" shape-rendering="auto"   style="fill-rule:evenodd;"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 1583 558 L 1607 558" shape-rendering="auto"/>
-  <path d="M 403 199 L 367 199" shape-rendering="auto"/>
-  <path d="M 382 193 L 367 199 L 382 205" shape-rendering="auto"/>
-  <path d="M 1070 527 L 1070 498" shape-rendering="auto"/>
+  <path d="M 1206 471 L 1206 442" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-  <polygon points="1065 517 1070 527 1075 517 1070 507" shape-rendering="auto"   style="fill-rule:evenodd;"/>
+  <polygon points="1201 461 1206 471 1211 461 1206 451" shape-rendering="auto"   style="fill-rule:evenodd;"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 1070 582 L 1070 608" shape-rendering="auto"/>
+  <path d="M 635 471 L 635 442" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-  <polygon points="1075 592 1070 582 1065 592 1070 602" shape-rendering="auto"   style="fill-rule:evenodd;"/>
+  <polygon points="630 461 635 471 640 461 635 451" shape-rendering="auto"   style="fill-rule:evenodd;"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 1206 527 L 1206 498" shape-rendering="auto"/>
+  <path d="M 923 471 L 923 442" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-  <polygon points="1201 517 1206 527 1211 517 1206 507" shape-rendering="auto"   style="fill-rule:evenodd;"/>
+  <polygon points="918 461 923 471 928 461 923 451" shape-rendering="auto"   style="fill-rule:evenodd;"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 635 527 L 635 498" shape-rendering="auto"/>
+  <path d="M 1183 526 L 1183 554" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-  <polygon points="630 517 635 527 640 517 635 507" shape-rendering="auto"   style="fill-rule:evenodd;"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 923 527 L 923 498" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-  <polygon points="918 517 923 527 928 517 923 507" shape-rendering="auto"   style="fill-rule:evenodd;"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 1207 582 L 1207 611" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-  <polygon points="1212 592 1207 582 1202 592 1207 602" shape-rendering="auto"   style="fill-rule:evenodd;"/>
+  <polygon points="1188 536 1183 526 1178 536 1183 546" shape-rendering="auto"   style="fill-rule:evenodd;"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:square;stroke-linejoin:round; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00" stroke-dasharray="6,3">
-  <path d="M 786 527 L 786 492" shape-rendering="auto"/>
+  <path d="M 786 471 L 786 436" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FAF1EC;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 786 492 L 780 508 L 792 508 L 786 492 Z" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 923 582 L 923 608" shape-rendering="auto"/>
+  <path d="M 786 436 L 780 452 L 792 452 L 786 436 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-  <polygon points="928 592 923 582 918 592 923 602" shape-rendering="auto"   style="fill-rule:evenodd;"/>
-<ellipse cx="1211.00" cy="666.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
-  <path d="M 1211 695 L 1215 685 L 1207 685 L 1211 695 Z" shape-rendering="auto"/>
+<ellipse cx="1184.00" cy="609.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
+  <path d="M 1184 638 L 1188 628 L 1180 628 L 1184 638 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 1211 666 L 1211 695" shape-rendering="auto"/>
+  <path d="M 1184 609 L 1184 638" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-<ellipse cx="1271.00" cy="664.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
-  <path d="M 1307 755 L 1297 751 L 1297 759 L 1307 755 Z" shape-rendering="auto"/>
+<ellipse cx="1244.00" cy="599.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
+  <path d="M 1307 699 L 1297 695 L 1297 703 L 1307 699 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 1271 664 L 1273 664 C 1276 664 1279 667 1279 670 L 1279 749 C 1279 752 1282 755 1285 755 L 1307 755" shape-rendering="auto"/>
-  <path d="M 1211 779 L 1211 759" shape-rendering="auto"/>
+  <path d="M 1244 599 L 1274 599 C 1277 599 1280 602 1280 605 L 1280 693 C 1280 696 1283 699 1286 699 L 1307 699" shape-rendering="auto"/>
+  <path d="M 1184 722 L 1184 702" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-<ellipse cx="1193.00" cy="443.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
-  <path d="M 1193 387 L 1189 397 L 1197 397 L 1193 387 Z" shape-rendering="auto"/>
+<ellipse cx="1191.00" cy="387.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
+  <path d="M 1191 331 L 1187 341 L 1195 341 L 1191 331 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 1193 443 L 1193 387" shape-rendering="auto"/>
-  <path d="M 1159 443 L 1159 403" shape-rendering="auto"/>
-  <path d="M 1159 403 C 1159 400 1156 397 1153 397" shape-rendering="auto"/>
-  <path d="M 1153 397 L 449 397" shape-rendering="auto"/>
-  <path d="M 449 397 C 446 397 443 400 443 403" shape-rendering="auto"/>
-  <path d="M 443 403 L 443 518" shape-rendering="auto"/>
-  <path d="M 437 503 L 443 518 L 449 503" shape-rendering="auto"/>
-  <path d="M 931 443 L 931 417" shape-rendering="auto"/>
-  <path d="M 931 417 C 931 414 928 411 925 411" shape-rendering="auto"/>
-  <path d="M 925 411 L 461 411" shape-rendering="auto"/>
-  <path d="M 461 411 C 458 411 455 414 455 417" shape-rendering="auto"/>
-  <path d="M 455 417 L 455 518" shape-rendering="auto"/>
-  <path d="M 449 503 L 455 518 L 461 503" shape-rendering="auto"/>
-  <path d="M 634 443 L 634 202 C 634 199 631 196 628 196 L 523 196" shape-rendering="auto"/>
-  <path d="M 575 449 L 419 449" shape-rendering="auto"/>
-  <path d="M 434 443 L 419 449 L 434 455" shape-rendering="auto"/>
-  <path d="M 575 489 L 484 489" shape-rendering="auto"/>
-  <path d="M 484 489 C 481 489 478 492 478 495" shape-rendering="auto"/>
-  <path d="M 478 495 L 478 518" shape-rendering="auto"/>
-  <path d="M 472 503 L 478 518 L 484 503" shape-rendering="auto"/>
-  <path d="M 515 952 L 515 827 C 515 824 518 821 521 821 L 864 821" shape-rendering="auto"/>
+  <path d="M 1191 387 L 1191 331" shape-rendering="auto"/>
+  <path d="M 1160 387 L 1160 347" shape-rendering="auto"/>
+  <path d="M 1160 347 C 1160 344 1157 341 1154 341" shape-rendering="auto"/>
+  <path d="M 1154 341 L 450 341" shape-rendering="auto"/>
+  <path d="M 450 341 C 447 341 444 344 444 347" shape-rendering="auto"/>
+  <path d="M 444 347 L 444 462" shape-rendering="auto"/>
+  <path d="M 438 447 L 444 462 L 450 447" shape-rendering="auto"/>
+  <path d="M 932 387 L 932 361" shape-rendering="auto"/>
+  <path d="M 932 361 C 932 358 929 355 926 355" shape-rendering="auto"/>
+  <path d="M 926 355 L 462 355" shape-rendering="auto"/>
+  <path d="M 462 355 C 459 355 456 358 456 361" shape-rendering="auto"/>
+  <path d="M 456 361 L 456 462" shape-rendering="auto"/>
+  <path d="M 450 447 L 456 462 L 462 447" shape-rendering="auto"/>
+  <path d="M 634 387 L 634 145 C 634 142 631 139 628 139 L 511 139" shape-rendering="auto"/>
+  <path d="M 575 398 L 419 398" shape-rendering="auto"/>
+  <path d="M 434 392 L 419 398 L 434 404" shape-rendering="auto"/>
+  <path d="M 575 433 L 485 433" shape-rendering="auto"/>
+  <path d="M 485 433 C 482 433 479 436 479 439" shape-rendering="auto"/>
+  <path d="M 479 439 L 479 462" shape-rendering="auto"/>
+  <path d="M 473 447 L 479 462 L 485 447" shape-rendering="auto"/>
+  <path d="M 401 923 L 331 923 C 328 923 325 920 325 917 L 325 776 A 6.00 -6.00 180.00 0 0 325 764 L 325 726" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-<ellipse cx="422.00" cy="952.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
-  <path d="M 422 600 L 418 610 L 426 610 L 422 600 Z" shape-rendering="auto"/>
+<ellipse cx="423.00" cy="896.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
+  <path d="M 423 544 L 419 554 L 427 554 L 423 544 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 422 952 L 422 761 A 6.00 -6.00 180.00 0 0 422 749 L 422 600" shape-rendering="auto"/>
-  <path d="M 1375 215 L 1375 376" shape-rendering="auto"/>
-  <path d="M 1375 376 C 1375 379 1378 382 1381 382" shape-rendering="auto"/>
-  <path d="M 1381 382 L 1464 382" shape-rendering="auto"/>
+  <path d="M 423 896 L 423 776 A 6.00 -6.00 180.00 0 0 423 764 L 423 544" shape-rendering="auto"/>
+  <path d="M 1365 159 L 1365 498" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 1464 382 L 1454 378 L 1454 386 L 1464 382 Z" shape-rendering="auto"/>
+<ellipse cx="1325.00" cy="104.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
+  <path d="M 517 501 L 527 505 L 527 497 L 517 501 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 1365 215 L 1365 554" shape-rendering="auto"/>
+  <path d="M 1325 104 L 1325 46 C 1325 43 1322 40 1319 40 L 563 40 C 560 40 557 43 557 46 L 557 133 A 6.00 -6.00 180.00 0 0 557 145 L 557 495 C 557 498 554 501 551 501 L 517 501" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-<ellipse cx="1327.00" cy="160.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
-  <path d="M 516 557 L 526 561 L 526 553 L 516 557 Z" shape-rendering="auto"/>
+<ellipse cx="1331.00" cy="159.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
+  <path d="M 1331 270 L 1335 260 L 1327 260 L 1331 270 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 1327 160 L 1327 46 C 1327 43 1324 40 1321 40 L 565 40 C 562 40 559 43 559 46 L 559 190 A 6.00 -6.00 180.00 0 0 559 202 L 559 551 C 559 554 556 557 553 557 L 516 557" shape-rendering="auto"/>
+  <path d="M 1331 159 L 1331 270" shape-rendering="auto"/>
+  <path d="M 1019 155 L 1061 155" shape-rendering="auto"/>
+  <path d="M 1061 155 C 1064 155 1067 158 1067 161" shape-rendering="auto"/>
+  <path d="M 1067 161 L 1067 387" shape-rendering="auto"/>
+  <path d="M 1061 372 L 1067 387 L 1073 372" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-<ellipse cx="1330.00" cy="215.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
-  <path d="M 1330 326 L 1334 316 L 1326 316 L 1330 326 Z" shape-rendering="auto"/>
+<ellipse cx="242.00" cy="555.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
+  <path d="M 372 519 L 362 515 L 362 523 L 372 519 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 1330 215 L 1330 326" shape-rendering="auto"/>
+  <path d="M 242 555 L 242 525 C 242 522 245 519 248 519 L 372 519" shape-rendering="auto"/>
+  <path d="M 209 555 L 209 405" shape-rendering="auto"/>
+  <path d="M 209 405 C 209 402 212 399 215 399" shape-rendering="auto"/>
+  <path d="M 215 399 L 299 399" shape-rendering="auto"/>
 </g>
-<g style="stroke-width:1;stroke-linecap:square;stroke-linejoin:round; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00" stroke-dasharray="6,3">
-  <path d="M 847 150" shape-rendering="auto"/>
-  <path d="M 847 150 L 911 150" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FAF1EC;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 911 150 L 895 144 L 895 156 L 911 150 Z" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:square;stroke-linejoin:round; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00" stroke-dasharray="6,3">
-  <path d="M 847 192 L 911 192" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FAF1EC;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 911 192 L 895 186 L 895 198 L 911 192 Z" shape-rendering="auto"/>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
+  <path d="M 299 399 L 289 395 L 289 403 L 299 399 Z" shape-rendering="auto"/>
+<ellipse cx="584.00" cy="582.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
+  <path d="M 517 536 L 527 540 L 527 532 L 517 536 Z" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
-  <path d="M 1040 136 L 1061 136" shape-rendering="auto"/>
-  <path d="M 1061 136 C 1064 136 1067 139 1067 142" shape-rendering="auto"/>
-  <path d="M 1067 142 L 1067 443" shape-rendering="auto"/>
-  <path d="M 1061 428 L 1067 443 L 1073 428" shape-rendering="auto"/>
-  <path d="M 1039 220 L 1061 220" shape-rendering="auto"/>
-  <path d="M 1061 220 C 1064 220 1067 223 1067 226" shape-rendering="auto"/>
-  <path d="M 1067 226 L 1067 443" shape-rendering="auto"/>
-  <path d="M 1061 428 L 1067 443 L 1073 428" shape-rendering="auto"/>
+  <path d="M 584 582 L 584 542 C 584 539 581 536 578 536 L 517 536" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
+<ellipse cx="1483.00" cy="594.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
+  <path d="M 1427 545 L 1437 549 L 1437 541 L 1427 545 Z" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
+  <path d="M 1483 594 L 1483 551 C 1483 548 1480 545 1477 545 L 1427 545" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
+<ellipse cx="479.00" cy="582.00" rx="4.00" ry="4.00" shape-rendering="auto"  />
+  <path d="M 479 544 L 475 554 L 483 554 L 479 544 Z" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
+  <path d="M 479 582 L 479 544" shape-rendering="auto"/>
 </g>
 </svg>
